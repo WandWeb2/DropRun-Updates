@@ -1,0 +1,1 @@
+Compare routes now shows best and worst case savings (you save either way) and 'if you leave in the next X min'. The logbook records your real saving.
