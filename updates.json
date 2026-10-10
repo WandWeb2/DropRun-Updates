@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 8,
-    "versionName": "1.6",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.6/DropRun-1.6.apk",
-    "sha256": "7b473c98afd1a91a19bed179150cb13ea33128e41c78de452f22fa06353c885c",
-    "notes": "Compare routes now shows best and worst case savings (you save either way) and 'if you leave in the next X min'. The logbook records your real saving."
+    "versionCode": 9,
+    "versionName": "1.7",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.7/DropRun-1.7.apk",
+    "sha256": "c49a520b9651012a86c7dba43966ab0456c27abf70eda36963e57ca17a9518fb",
+    "notes": "Recalibrated timings, fixed route comparison, jumps back from Maps when you arrive"
   },
   "maps": [
     {

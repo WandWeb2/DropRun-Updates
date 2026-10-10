@@ -1,1 +1,0 @@
-Recalibrated timings, fixed route comparison, jumps back from Maps when you arrive
