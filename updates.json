@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 7,
-    "versionName": "1.5",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.5/DropRun-1.5.apk",
-    "sha256": "d1d4ee3822d1854c2f4b65fd08d4ef24e679cee22631883192c3448bcae69af5",
-    "notes": "New: set when you're leaving the store on the check screen (defaults to your last run), plus the latest you can leave and still make every window."
+    "versionCode": 8,
+    "versionName": "1.6",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.6/DropRun-1.6.apk",
+    "sha256": "7b473c98afd1a91a19bed179150cb13ea33128e41c78de452f22fa06353c885c",
+    "notes": "Compare routes now shows best and worst case savings (you save either way) and 'if you leave in the next X min'. The logbook records your real saving."
   },
   "maps": [
     {
