@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 5,
-    "versionName": "1.4",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.4/DropRun-1.4.apk",
-    "sha256": "be61d32374f1c37a1b1c5a561f0540815b7c8b94261680f25b4b95136f2a1d24",
-    "notes": "New: Compare routes. See your sheet order and DropRun's route on a map, with the time and km saved. The logbook now tracks savings."
+    "versionCode": 6,
+    "versionName": "1.4.1",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.4.1/DropRun-1.4.1.apk",
+    "sha256": "d1d4ee3822d1854c2f4b65fd08d4ef24e679cee22631883192c3448bcae69af5",
+    "notes": "Compare routes now shows the sheet order as normally driven against DropRun with customers accepting early drops."
   },
   "maps": [
     {
