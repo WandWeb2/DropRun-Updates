@@ -69,7 +69,7 @@ jobs:
           git config user.email "droprun-bot@users.noreply.github.com"
           git add updates.json
           git commit -m "Road maps $tag" || echo "no change"
-          git push
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
       - name: Remove old map releases (keep the last 3)
         env:
           GH_TOKEN: ${{ github.token }}

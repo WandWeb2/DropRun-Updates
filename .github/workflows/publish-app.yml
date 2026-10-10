@@ -1,0 +1,38 @@
+name: Publish app
+
+# Drop a signed APK in incoming/ named DropRun-<versionName>-<versionCode>.apk (with an optional
+# incoming/notes.txt). This makes it a release, points updates.json at it, and clears incoming/.
+on:
+  push:
+    branches: [main]
+    paths: ["incoming/*.apk"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release and update the list
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          apk=$(ls incoming/DropRun-*.apk | head -1)
+          base=$(basename "$apk" .apk)              # DropRun-1.3-4
+          name=$(echo "$base" | cut -d- -f2); code=$(echo "$base" | cut -d- -f3)
+          notes=$(cat incoming/notes.txt 2>/dev/null || echo "DropRun $name")
+          cp "$apk" "DropRun-$name.apk"
+          gh release create "app-$name" "DropRun-$name.apk" --title "DropRun $name" --notes "$notes" || \
+            gh release upload "app-$name" "DropRun-$name.apk" --clobber
+          python3 tools/update_manifest.py app "$code" "$name" \
+            "https://github.com/${{ github.repository }}/releases/download/app-$name/DropRun-$name.apk" "DropRun-$name.apk" "$notes"
+          git rm -q -r incoming
+          git config user.name "droprun-bot"
+          git config user.email "droprun-bot@users.noreply.github.com"
+          git add updates.json
+          git commit -m "Publish DropRun $name"
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done

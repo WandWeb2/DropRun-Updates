@@ -1,11 +1,5 @@
 {
   "format": 1,
-  "app": {
-    "versionCode": 4,
-    "versionName": "1.3",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.3/DropRun-1.3.apk",
-    "sha256": "b2b47d634c97de7749127cde76e1516303466900c2bb60c2d7d8faf0c3261e30",
-    "notes": "Updates itself, weekly road maps, closures every 5 min."
-  },
+  "app": null,
   "maps": []
 }
