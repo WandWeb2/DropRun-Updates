@@ -1,0 +1,78 @@
+name: Build road maps
+
+# Weekly fresh road maps from OpenStreetMap for every state. DropRun installs check updates.json
+# whenever a run is scanned and pick up the new map for their area on their own.
+on:
+  schedule:
+    - cron: "0 15 * * 6"   # Saturdays 15:00 UTC = Sunday 1am in Queensland
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regions:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.r.outputs.list }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: r
+        run: echo "list=$(jq -c . regions.json)" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: regions
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        r: ${{ fromJson(needs.regions.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install osmium numpy
+      - name: Download OpenStreetMap extract
+        run: curl -fsSL --retry 3 -o src.osm.pbf "https://download.openstreetmap.fr/extracts/oceania/australia/${{ matrix.r.extract }}-latest.osm.pbf"
+      - name: Build road map
+        run: python3 tools/build_road_graph.py src.osm.pbf "roads-${{ matrix.r.region }}.drg.gz"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: map-${{ matrix.r.region }}
+          path: roads-${{ matrix.r.region }}.drg.gz*
+
+  publish:
+    needs: build
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { path: built, merge-multiple: true }
+      - name: Release and update the list
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          tag="maps-$(date -u +%Y-%m-%d)"
+          ls built/*.drg.gz >/dev/null
+          gh release create "$tag" built/*.drg.gz --title "Road maps $(date -u +%Y-%m-%d)" \
+            --notes "Weekly road maps built from OpenStreetMap. Map data © OpenStreetMap contributors (ODbL)." || \
+          gh release upload "$tag" built/*.drg.gz --clobber
+          for meta in built/*.drg.gz.json; do
+            f=$(basename "$meta" .json); region=${f#roads-}; region=${region%.drg.gz}
+            name=$(jq -r --arg r "$region" '.[] | select(.region==$r) | .name' regions.json)
+            python3 tools/update_manifest.py map "$region" "$name" \
+              "https://github.com/${{ github.repository }}/releases/download/$tag/$f" "$meta"
+          done
+          git config user.name "droprun-bot"
+          git config user.email "droprun-bot@users.noreply.github.com"
+          git add updates.json
+          git commit -m "Road maps $tag" || echo "no change"
+          git push
+      - name: Remove old map releases (keep the last 3)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release list --limit 100 --json tagName --jq '.[].tagName' | grep '^maps-' | sort -r | tail -n +4 | \
+            xargs -r -I{} gh release delete {} --yes --cleanup-tag

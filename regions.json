@@ -1,0 +1,10 @@
+[
+  {"region": "qld", "name": "Queensland",                   "extract": "queensland"},
+  {"region": "nsw", "name": "New South Wales",              "extract": "new_south_wales"},
+  {"region": "act", "name": "Australian Capital Territory", "extract": "australian_capital_territory"},
+  {"region": "vic", "name": "Victoria",                     "extract": "victoria"},
+  {"region": "tas", "name": "Tasmania",                     "extract": "tasmania"},
+  {"region": "sa",  "name": "South Australia",              "extract": "south_australia"},
+  {"region": "wa",  "name": "Western Australia",            "extract": "western_australia"},
+  {"region": "nt",  "name": "Northern Territory",           "extract": "northern_territory"}
+]
