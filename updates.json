@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 6,
-    "versionName": "1.4.1",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.4.1/DropRun-1.4.1.apk",
+    "versionCode": 7,
+    "versionName": "1.5",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.5/DropRun-1.5.apk",
     "sha256": "d1d4ee3822d1854c2f4b65fd08d4ef24e679cee22631883192c3448bcae69af5",
-    "notes": "Compare routes now shows the sheet order as normally driven against DropRun with customers accepting early drops."
+    "notes": "New: set when you're leaving the store on the check screen (defaults to your last run), plus the latest you can leave and still make every window."
   },
   "maps": [
     {

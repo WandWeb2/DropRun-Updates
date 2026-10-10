@@ -1,1 +1,0 @@
-New: set when you're leaving the store on the check screen (defaults to your last run), plus the latest you can leave and still make every window.
