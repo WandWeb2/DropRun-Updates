@@ -1,0 +1,1 @@
+New: Compare routes. See your sheet order and DropRun's route on a map, with the time and km saved. The logbook now tracks savings.
