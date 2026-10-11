@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 22,
-    "versionName": "1.20",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.20/DropRun-1.20.apk",
-    "sha256": "1020306c564ea7f1492d865178a4a26a28a1fe0778ae5799d3412a32862aa9c6",
-    "notes": "New: rearrange drops with the up/down arrows (your order is kept; 'Use best order' returns to automatic). New: 'Delivered + navigate to next' button."
+    "versionCode": 23,
+    "versionName": "1.21",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.21/DropRun-1.21.apk",
+    "sha256": "0338710d33e8a8a942438d4ef2b0bf92e825ef78a987745fa1a24d36e11e77b3",
+    "notes": "Moving a drop now locks just that drop where you put it and optimises the rest around it; 'Lock order' freezes everything. The version number shows Checking for updates / Downloading while it works."
   },
   "maps": [
     {
