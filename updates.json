@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 30,
-    "versionName": "1.28",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.28/DropRun-1.28.apk",
-    "sha256": "16293be21af1de3bc423fa1a174b9f48679c5fa63bae19d84942e36732c078e4",
-    "notes": "Share image now reads: I saved XX km & X.X hours on my route using DropRun, then your run stats."
+    "versionCode": 31,
+    "versionName": "1.29",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.29/DropRun-1.29.apk",
+    "sha256": "bfda3fc02891bb80eb939e3598f4fee902e6de50a4e32faff4368cd2b511e583",
+    "notes": "New tag line: Smart delivery route app."
   },
   "maps": [
     {
