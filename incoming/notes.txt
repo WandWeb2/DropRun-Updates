@@ -1,1 +1,0 @@
-Hold and drag any drop card to move it (locks that drop in place), on Check the run and on the Run list. Check the run now shows the planned order. Arrows still work.
