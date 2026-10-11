@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 17,
-    "versionName": "1.15",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.15/DropRun-1.15.apk",
-    "sha256": "a77e12c8c8dcfcfea2300b8bb3a4356fdcca84f9e1c7f65d3cc713675ffab3bd",
-    "notes": "Skip break / end break early now moves on. Map zooms right down to the house with every street. DropRun no longer jumps in front of Maps until you've actually pulled up."
+    "versionCode": 18,
+    "versionName": "1.16",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.16/DropRun-1.16.apk",
+    "sha256": "3f5cba13939e529c009f24bf3acf01cde0713205bf8c226393a8d9f4c9f68ffb",
+    "notes": "New glass look. Arrival voice: window check + your house note when you pull up. Voice ducks Maps instead of talking over it."
   },
   "maps": [
     {
