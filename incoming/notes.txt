@@ -1,0 +1,1 @@
+Runs now start from your current location (no saved store needed) and finish back there by default. Change the start or the finish on the Check the run screen.
