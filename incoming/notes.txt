@@ -1,0 +1,1 @@
+Checks for updates every time you open the app. Version shown on the home screen.
