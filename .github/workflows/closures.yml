@@ -2,7 +2,8 @@ name: Relay road closures
 
 # Every 5 minutes: one request to QLDTraffic (Queensland Government, CC BY 4.0) for all DropRun users.
 # Keeps only closures, flooding and high-priority events and publishes them on the `data` branch,
-# so no phone needs its own QLDTraffic key. Uses TMR's public key unless a QLDTRAFFIC_KEY secret is set.
+# so no phone needs its own QLDTraffic key. Needs the QLDTRAFFIC_KEY repo secret (TMR's shared public key is
+# permanently rate-limited with 429, so a registered key is required); does nothing until it is set.
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -16,11 +17,12 @@ concurrency: closures
 jobs:
   relay:
     runs-on: ubuntu-latest
+    env:
+      KEY: ${{ secrets.QLDTRAFFIC_KEY }}
     steps:
       - uses: actions/checkout@v4
       - name: Fetch and filter
-        env:
-          KEY: ${{ secrets.QLDTRAFFIC_KEY || '3e83add325cbb69ac4d8e5bf433d770b' }}
+        if: ${{ env.KEY != '' }}
         run: |
           curl -fsS --max-time 60 --retry 8 --retry-delay 20 --retry-all-errors "https://api.qldtraffic.qld.gov.au/v2/events?apikey=$KEY" -o raw.json
           python3 - <<'PY'
@@ -46,6 +48,7 @@ jobs:
           PY
           ls -la closures.json
       - name: Publish on the data branch
+        if: ${{ env.KEY != '' }}
         run: |
           mkdir pub && cp closures.json pub/
           cd pub
