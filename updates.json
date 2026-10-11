@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 12,
-    "versionName": "1.10",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.10/DropRun-1.10.apk",
-    "sha256": "44c6a37fd4ef465f39380e7e3734c6cb63408bdc16e12dac3a23bd30eb43d92e",
-    "notes": "Scan keeps every row, per-page report, easy Remove, start partway through a run"
+    "versionCode": 13,
+    "versionName": "1.11",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.11/DropRun-1.11.apk",
+    "sha256": "30bae26663ce9f50d707b03e1872c826b9e61ee62103c62abb1ab14161cf7501",
+    "notes": "Every sheet row is a delivery, numbered or not"
   },
   "maps": [
     {
