@@ -1,0 +1,1 @@
+Update checks now always see the newest version straight away.
