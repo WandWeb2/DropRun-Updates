@@ -1,1 +1,0 @@
-Silent arrival, confirmation when saving a house location, landscape support

@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 15,
-    "versionName": "1.13",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.13/DropRun-1.13.apk",
-    "sha256": "2d09f0b22e1a769cd44ceadd69c93148835fdd99ab9a8964b9821e65d5b3ab92",
-    "notes": "Fixes crash when removing a drop; sheets photographed at an angle keep all drops"
+    "versionCode": 16,
+    "versionName": "1.14",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.14/DropRun-1.14.apk",
+    "sha256": "439f7f3a881aaa8e1e7cbb0ba3dd35b29eee692aa94bd9ae32aace583a6d17e2",
+    "notes": "Silent arrival, confirmation when saving a house location, landscape support"
   },
   "maps": [
     {
