@@ -22,7 +22,7 @@ jobs:
         env:
           KEY: ${{ secrets.QLDTRAFFIC_KEY || '3e83add325cbb69ac4d8e5bf433d770b' }}
         run: |
-          curl -fsS --max-time 60 "https://api.qldtraffic.qld.gov.au/v2/events?apikey=$KEY" -o raw.json
+          curl -fsS --max-time 60 --retry 8 --retry-delay 20 --retry-all-errors "https://api.qldtraffic.qld.gov.au/v2/events?apikey=$KEY" -o raw.json
           python3 - <<'PY'
           import json, time
           d = json.load(open("raw.json"))
