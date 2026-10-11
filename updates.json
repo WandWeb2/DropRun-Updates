@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 37,
-    "versionName": "1.35",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.35/DropRun-1.35.apk",
-    "sha256": "1708dd17a67442f58a38f44ef5116576f0587bfb161a3124366c396c6b53f231",
-    "notes": "Servo replaced by My stops: add any place first or before the finish. New Personalise menu."
+    "versionCode": 38,
+    "versionName": "1.36",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.36/DropRun-1.36.apk",
+    "sha256": "593b5b75320dbed1138c6744dfa9d4f8930fb4d3104fa99ab8f89885c81488b1",
+    "notes": "Address suggestions as you type, edit My stops, no personal info in the app"
   },
   "maps": [
     {
