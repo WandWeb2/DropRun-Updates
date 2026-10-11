@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 18,
-    "versionName": "1.16",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.16/DropRun-1.16.apk",
-    "sha256": "3f5cba13939e529c009f24bf3acf01cde0713205bf8c226393a8d9f4c9f68ffb",
-    "notes": "New glass look. Arrival voice: window check + your house note when you pull up. Voice ducks Maps instead of talking over it."
+    "versionCode": 19,
+    "versionName": "1.17",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.17/DropRun-1.17.apk",
+    "sha256": "8a8b59a8f3bbd0308715be43bc6f33fee47618042b1ea063ebc0fd39f7dca273",
+    "notes": "Checks for updates every time you open the app. Version shown on the home screen."
   },
   "maps": [
     {
