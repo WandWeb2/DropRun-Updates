@@ -1,0 +1,1 @@
+New: rearrange drops with the up/down arrows (your order is kept; 'Use best order' returns to automatic). New: 'Delivered + navigate to next' button.
