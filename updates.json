@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 27,
-    "versionName": "1.25",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.25/DropRun-1.25.apk",
-    "sha256": "8008d05303106d8242af427387284ec9b8b23ba50deea02df3613705433032d9",
-    "notes": "New live-routing dot at the top of Check the run and Run: green Live, blue pulsing while routing, Updated, amber At risk/Estimates, red late."
+    "versionCode": 28,
+    "versionName": "1.26",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.26/DropRun-1.26.apk",
+    "sha256": "58ff6b5dc4f1b888c787a9a65eea2565e5821d7d68e86c52bccfec5fd253a5bc",
+    "notes": "Choose your colours: five themes, day/night follows your phone. Buttons look like buttons. Drop numbers centred."
   },
   "maps": [
     {
