@@ -7,4 +7,4 @@ name=$1; code=$2; apk=$3; notes=${4:-"DropRun $name"}
 mkdir -p incoming
 cp "$apk" "incoming/DropRun-$name-$code.apk"
 printf '%s' "$notes" > incoming/notes.txt
-git add incoming && git commit -m "Publish DropRun $name" && git push
+git add incoming && git commit -m "Publish DropRun $name" && git pull --rebase -q && git push
