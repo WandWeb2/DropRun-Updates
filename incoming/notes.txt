@@ -1,0 +1,1 @@
+New live-routing dot at the top of Check the run and Run: green Live, blue pulsing while routing, Updated, amber At risk/Estimates, red late.
