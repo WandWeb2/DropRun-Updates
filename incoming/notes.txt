@@ -1,1 +1,0 @@
-Fixes sheets photographed at an angle losing drops

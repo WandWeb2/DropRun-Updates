@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 13,
-    "versionName": "1.11",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.11/DropRun-1.11.apk",
+    "versionCode": 14,
+    "versionName": "1.12",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.12/DropRun-1.12.apk",
     "sha256": "30bae26663ce9f50d707b03e1872c826b9e61ee62103c62abb1ab14161cf7501",
-    "notes": "Every sheet row is a delivery, numbered or not"
+    "notes": "Fixes sheets photographed at an angle losing drops"
   },
   "maps": [
     {
