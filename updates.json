@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 26,
-    "versionName": "1.24",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.24/DropRun-1.24.apk",
-    "sha256": "7a312665d36f9029823e0f75e3ff3ea9d337ecdd18323871a5d506f3a9cdf7da",
-    "notes": "Much less text: compact Start/Finish chips, warnings only when needed, explanations behind an info icon."
+    "versionCode": 27,
+    "versionName": "1.25",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.25/DropRun-1.25.apk",
+    "sha256": "8008d05303106d8242af427387284ec9b8b23ba50deea02df3613705433032d9",
+    "notes": "New live-routing dot at the top of Check the run and Run: green Live, blue pulsing while routing, Updated, amber At risk/Estimates, red late."
   },
   "maps": [
     {
