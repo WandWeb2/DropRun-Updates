@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 29,
-    "versionName": "1.27",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.27/DropRun-1.27.apk",
-    "sha256": "faef7be94e2c56892775e6ad665a569dbdbc4b3b1455505526e9465a8c0b08c8",
-    "notes": "Share a run from the Logbook as an image: route comparison, stats and DropRun watermark, made on your phone."
+    "versionCode": 30,
+    "versionName": "1.28",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.28/DropRun-1.28.apk",
+    "sha256": "16293be21af1de3bc423fa1a174b9f48679c5fa63bae19d84942e36732c078e4",
+    "notes": "Share image now reads: I saved XX km & X.X hours on my route using DropRun, then your run stats."
   },
   "maps": [
     {
