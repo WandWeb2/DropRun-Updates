@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 20,
-    "versionName": "1.18",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.18/DropRun-1.18.apk",
-    "sha256": "65b6b3ce41e299d6f74d486d750d27846ef57f8fc1336c16c89e5e644a9f7131",
-    "notes": "Abandon a run at any point (red X at the top of Check the run and Run): stops tracking, nothing logged."
+    "versionCode": 21,
+    "versionName": "1.19",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.19/DropRun-1.19.apk",
+    "sha256": "5109aa3e6ed040fd0b9799bcc0359147e3ddd9700705e50b09c61a5674f28d16",
+    "notes": "New: 'Delivered + navigate to next' button on the run screen."
   },
   "maps": [
     {
