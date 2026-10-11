@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 21,
-    "versionName": "1.19",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.19/DropRun-1.19.apk",
-    "sha256": "5109aa3e6ed040fd0b9799bcc0359147e3ddd9700705e50b09c61a5674f28d16",
-    "notes": "New: 'Delivered + navigate to next' button on the run screen."
+    "versionCode": 22,
+    "versionName": "1.20",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.20/DropRun-1.20.apk",
+    "sha256": "1020306c564ea7f1492d865178a4a26a28a1fe0778ae5799d3412a32862aa9c6",
+    "notes": "New: rearrange drops with the up/down arrows (your order is kept; 'Use best order' returns to automatic). New: 'Delivered + navigate to next' button."
   },
   "maps": [
     {
