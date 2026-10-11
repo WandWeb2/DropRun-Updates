@@ -1,1 +1,0 @@
-Offline address book for exact house pins, drive-time check, area setup on first scan

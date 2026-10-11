@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 9,
-    "versionName": "1.7",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.7/DropRun-1.7.apk",
-    "sha256": "c49a520b9651012a86c7dba43966ab0456c27abf70eda36963e57ca17a9518fb",
-    "notes": "Recalibrated timings, fixed route comparison, jumps back from Maps when you arrive"
+    "versionCode": 10,
+    "versionName": "1.8",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.8/DropRun-1.8.apk",
+    "sha256": "9e41786a5844888755aedd93ab174b134fbbb069cc2b90300354207cb2288f92",
+    "notes": "Offline address book for exact house pins, drive-time check, area setup on first scan"
   },
   "maps": [
     {
