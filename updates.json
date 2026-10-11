@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 14,
-    "versionName": "1.12",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.12/DropRun-1.12.apk",
-    "sha256": "30bae26663ce9f50d707b03e1872c826b9e61ee62103c62abb1ab14161cf7501",
-    "notes": "Fixes sheets photographed at an angle losing drops"
+    "versionCode": 15,
+    "versionName": "1.13",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.13/DropRun-1.13.apk",
+    "sha256": "2d09f0b22e1a769cd44ceadd69c93148835fdd99ab9a8964b9821e65d5b3ab92",
+    "notes": "Fixes crash when removing a drop; sheets photographed at an angle keep all drops"
   },
   "maps": [
     {

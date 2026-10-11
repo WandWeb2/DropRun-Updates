@@ -1,1 +1,0 @@
-Fixes crash when removing a drop; sheets photographed at an angle keep all drops
