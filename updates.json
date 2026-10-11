@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 33,
-    "versionName": "1.31",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.31/DropRun-1.31.apk",
-    "sha256": "316cef3c17d92ea87f7dc59665a7e0f0244830be360f5db87a27be61838cb2ca",
-    "notes": "New DropRun logo everywhere. New default Map theme: light green by day, charcoal and blue at night."
+    "versionCode": 34,
+    "versionName": "1.32",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.32/DropRun-1.32.apk",
+    "sha256": "5a7f8d96319fa53d55436fcba2548c0a04e9ac6aea104aa3c362f3170499b197",
+    "notes": "App icon: light map-green background, logo centred and bigger."
   },
   "maps": [
     {
