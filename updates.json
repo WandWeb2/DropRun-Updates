@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 23,
-    "versionName": "1.21",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.21/DropRun-1.21.apk",
-    "sha256": "0338710d33e8a8a942438d4ef2b0bf92e825ef78a987745fa1a24d36e11e77b3",
-    "notes": "Moving a drop now locks just that drop where you put it and optimises the rest around it; 'Lock order' freezes everything. The version number shows Checking for updates / Downloading while it works."
+    "versionCode": 24,
+    "versionName": "1.22",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.22/DropRun-1.22.apk",
+    "sha256": "b166004bbf3bc5f1710a96b3d6422e0ea96c977c20de93ff53289b76ae16e32e",
+    "notes": "Runs now start from your current location (no saved store needed) and finish back there by default. Change the start or the finish on the Check the run screen."
   },
   "maps": [
     {
