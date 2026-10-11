@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 10,
-    "versionName": "1.8",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.8/DropRun-1.8.apk",
-    "sha256": "9e41786a5844888755aedd93ab174b134fbbb069cc2b90300354207cb2288f92",
-    "notes": "Offline address book for exact house pins, drive-time check, area setup on first scan"
+    "versionCode": 11,
+    "versionName": "1.9",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.9/DropRun-1.9.apk",
+    "sha256": "6ef3d4796b2c17b39e759ffefae60e735422bf7bf26eaa448ee865d7bdc1365a",
+    "notes": "Big drop numbers down the left of each card"
   },
   "maps": [
     {
