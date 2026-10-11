@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 40,
-    "versionName": "1.38",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.38/DropRun-1.38.apk",
-    "sha256": "a841842d9b986139c342ca922ab56c9526b8c19e4fedd1eab97bb093f3314794",
-    "notes": "Info buttons next to sections and settings explain what they do."
+    "versionCode": 41,
+    "versionName": "1.39",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.39/DropRun-1.39.apk",
+    "sha256": "eb747d7ee880a03a0d4b10e5d0ce013d6a33f433e44fb3a2f0c71df58f2b951f",
+    "notes": "DropRun now learns your drive times from the first few drives, and tells you how much it has learned."
   },
   "maps": [
     {
