@@ -1,1 +1,0 @@
-Abandon a run at any point (red X at the top of Check the run and Run): stops tracking, nothing logged.
