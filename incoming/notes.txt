@@ -1,1 +1,0 @@
-Info buttons next to sections and settings explain what they do.
