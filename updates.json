@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 36,
-    "versionName": "1.34",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.34/DropRun-1.34.apk",
-    "sha256": "b1bb539f541082c0169a03fecd45bfe0e8860b20e8d129fde7945abf8f9a3481",
-    "notes": "Tidier drop cards, theme-coloured numbers, cleaner glass."
+    "versionCode": 37,
+    "versionName": "1.35",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.35/DropRun-1.35.apk",
+    "sha256": "1708dd17a67442f58a38f44ef5116576f0587bfb161a3124366c396c6b53f231",
+    "notes": "Servo replaced by My stops: add any place first or before the finish. New Personalise menu."
   },
   "maps": [
     {
