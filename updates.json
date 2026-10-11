@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 25,
-    "versionName": "1.23",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.23/DropRun-1.23.apk",
-    "sha256": "38d693c355fb0d44a2319532c1b052c24fdff77ad5c875a4495358b4a439b675",
-    "notes": "Hold and drag any drop card to move it (locks that drop in place), on Check the run and on the Run list. Check the run now shows the planned order. Arrows still work."
+    "versionCode": 26,
+    "versionName": "1.24",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.24/DropRun-1.24.apk",
+    "sha256": "7a312665d36f9029823e0f75e3ff3ea9d337ecdd18323871a5d506f3a9cdf7da",
+    "notes": "Much less text: compact Start/Finish chips, warnings only when needed, explanations behind an info icon."
   },
   "maps": [
     {

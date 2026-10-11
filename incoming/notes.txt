@@ -1,1 +1,0 @@
-Much less text: compact Start/Finish chips, warnings only when needed, explanations behind an info icon.
