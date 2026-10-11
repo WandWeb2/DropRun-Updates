@@ -1,0 +1,57 @@
+name: Build address books
+
+# Monthly: pulls the latest open G-NAF release (Geoscape, CC BY 4.0, updated quarterly) and builds a compact
+# offline address book for every state. Installs pick up the one for their area by themselves.
+on:
+  schedule:
+    - cron: "0 16 15 * *"
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/build-addresses.yml", "tools/build_address_book.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pandas numpy
+      - name: Find and download the latest G-NAF
+        run: |
+          url=$(curl -fsSL "https://data.gov.au/data/api/3/action/package_show?id=geocoded-national-address-file-g-naf" | \
+            jq -r '[.result.resources[] | select((.format|ascii_downcase)=="zip" and (.name|test("GDA2020")))][0].url')
+          echo "G-NAF: $url"
+          for i in 1 2 3 4 5 6; do curl -fsSL -C - -o gnaf.zip "$url" && break; sleep 5; done
+          ls -la gnaf.zip
+      - name: Build every state
+        run: |
+          mkdir built
+          for r in $(jq -r '.[].region' regions.json); do
+            python3 tools/build_address_book.py gnaf.zip "$(echo $r | tr a-z A-Z)" "built/addr-$r.drad.gz"
+          done
+      - name: Release and update the list
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          tag="addr-$(date -u +%Y-%m)"
+          gh release create "$tag" built/*.drad.gz --title "Address books $(date -u +%Y-%m)" \
+            --notes "Offline address books built from the open G-NAF (Geoscape Australia, CC BY 4.0). Used only to place map pins, never for mail." || \
+          gh release upload "$tag" built/*.drad.gz --clobber
+          for meta in built/*.drad.gz.json; do
+            f=$(basename "$meta" .json); region=${f#addr-}; region=${region%.drad.gz}
+            name=$(jq -r --arg r "$region" '.[] | select(.region==$r) | .name' regions.json)
+            python3 tools/update_manifest.py addresses "$region" "$name" \
+              "https://github.com/${{ github.repository }}/releases/download/$tag/$f" "$meta"
+          done
+          git config user.name "droprun-bot"
+          git config user.email "droprun-bot@users.noreply.github.com"
+          git add updates.json
+          git commit -m "Address books $tag" || echo "no change"
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
+          gh release list --limit 100 --json tagName --jq '.[].tagName' | grep '^addr-' | sort -r | tail -n +3 | \
+            xargs -r -I{} gh release delete {} --yes --cleanup-tag

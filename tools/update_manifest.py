@@ -2,12 +2,14 @@
 """Updates updates.json: the list every DropRun install reads to keep itself current.
 
   update_manifest.py map  <region> <name> <download-url> <meta.json>
+  update_manifest.py addresses <region> <name> <download-url> <meta.json>
   update_manifest.py app  <versionCode> <versionName> <download-url> <apk-file> "<notes>"
 """
 import hashlib, json, os, sys
 
 PATH = "updates.json"
 m = json.load(open(PATH)) if os.path.exists(PATH) else {"format": 1, "app": None, "maps": []}
+m.setdefault("addresses", [])
 
 kind = sys.argv[1]
 if kind == "map":
@@ -17,6 +19,13 @@ if kind == "map":
              "bytes": info["bytes"], "bbox": info["bbox"]}
     m["maps"] = [x for x in m["maps"] if x["region"] != region] + [entry]
     m["maps"].sort(key=lambda x: x["region"])
+elif kind == "addresses":
+    region, name, url, meta = sys.argv[2:6]
+    info = json.load(open(meta))
+    entry = {"region": region, "name": name, "url": url, "built": info["built"], "sha256": info["sha256"],
+             "bytes": info["bytes"], "bbox": info["bbox"]}
+    m["addresses"] = [x for x in m["addresses"] if x["region"] != region] + [entry]
+    m["addresses"].sort(key=lambda x: x["region"])
 elif kind == "app":
     code, name, url, apk, notes = sys.argv[2:7]
     sha = hashlib.sha256(open(apk, "rb").read()).hexdigest()
