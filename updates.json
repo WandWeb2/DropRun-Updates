@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 34,
-    "versionName": "1.32",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.32/DropRun-1.32.apk",
-    "sha256": "5a7f8d96319fa53d55436fcba2548c0a04e9ac6aea104aa3c362f3170499b197",
-    "notes": "App icon: light map-green background, logo centred and bigger."
+    "versionCode": 35,
+    "versionName": "1.33",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.33/DropRun-1.33.apk",
+    "sha256": "bcf8deeccdcced1a83540b711af2b3269e34d5c21c140c24af966ed1c623c462",
+    "notes": "Update checks now always see the newest version straight away."
   },
   "maps": [
     {
