@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 35,
-    "versionName": "1.33",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.33/DropRun-1.33.apk",
-    "sha256": "bcf8deeccdcced1a83540b711af2b3269e34d5c21c140c24af966ed1c623c462",
-    "notes": "Update checks now always see the newest version straight away."
+    "versionCode": 36,
+    "versionName": "1.34",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.34/DropRun-1.34.apk",
+    "sha256": "b1bb539f541082c0169a03fecd45bfe0e8860b20e8d129fde7945abf8f9a3481",
+    "notes": "Tidier drop cards, theme-coloured numbers, cleaner glass."
   },
   "maps": [
     {
