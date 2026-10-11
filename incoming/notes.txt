@@ -1,0 +1,1 @@
+DropRun now learns your drive times from the first few drives, and tells you how much it has learned.
