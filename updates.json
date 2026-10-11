@@ -120,5 +120,119 @@
         130.4712
       ]
     }
+  ],
+  "addresses": [
+    {
+      "region": "act",
+      "name": "Australian Capital Territory",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-act.drad.gz",
+      "built": 1791682319,
+      "sha256": "ecfa6d0c50d58d5ec269058522fb5f1276137e7eee66c56df074cfe724f8c389",
+      "bytes": 1069044,
+      "bbox": [
+        -35.733887,
+        148.805249,
+        -35.139796,
+        149.388225
+      ]
+    },
+    {
+      "region": "nsw",
+      "name": "New South Wales",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-nsw.drad.gz",
+      "built": 1791682316,
+      "sha256": "5754e3777b3067ca482608cc016b8cbb74e96721d3b98aeeb02c50f5a7096f56",
+      "bytes": 22649875,
+      "bbox": [
+        -37.371982,
+        141.001415,
+        -28.165767,
+        159.080404
+      ]
+    },
+    {
+      "region": "nt",
+      "name": "Northern Territory",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-nt.drad.gz",
+      "built": 1791682370,
+      "sha256": "afd5635453f724cc39053ca5402c617a3d4743afd5c029dc70a8ba7d9a8ce388",
+      "bytes": 606005,
+      "bbox": [
+        -25.931572,
+        129.003358,
+        -11.140983,
+        137.918448
+      ]
+    },
+    {
+      "region": "qld",
+      "name": "Queensland",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-qld.drad.gz",
+      "built": 1791682285,
+      "sha256": "b272ae4ab0e0ca1228edf29949f489877b342999f1154dca528b5ea1740e5887",
+      "bytes": 16231997,
+      "bbox": [
+        -29.167548,
+        138.035543,
+        -9.22999,
+        153.550329
+      ]
+    },
+    {
+      "region": "sa",
+      "name": "South Australia",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-sa.drad.gz",
+      "built": 1791682358,
+      "sha256": "4979195ed29c5b409314b62d86bd8a6be5a81a4007e626d11d9ccb476cd65a9c",
+      "bytes": 6552934,
+      "bbox": [
+        -38.058422,
+        129.003887,
+        -26.068992,
+        140.997993
+      ]
+    },
+    {
+      "region": "tas",
+      "name": "Tasmania",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-tas.drad.gz",
+      "built": 1791682350,
+      "sha256": "9e69dcf6a0cfa65d8c889a25d01783374995df188219cb2bd1000a85630677c0",
+      "bytes": 2277547,
+      "bbox": [
+        -43.582998,
+        143.835508,
+        -39.593688,
+        148.346752
+      ]
+    },
+    {
+      "region": "vic",
+      "name": "Victoria",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-vic.drad.gz",
+      "built": 1791682347,
+      "sha256": "36bd13b884a0a6ab788ce7884f79a298c0fa5f45ddf30841d382b6eec961b6fc",
+      "bytes": 21859093,
+      "bbox": [
+        -39.033023,
+        140.963363,
+        -34.006042,
+        149.825689
+      ]
+    },
+    {
+      "region": "wa",
+      "name": "Western Australia",
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/addr-2026-10/addr-wa.drad.gz",
+      "built": 1791682368,
+      "sha256": "bee631b5776409dcf28e5588f8030b0f1f0f5e507ae758f673d4b22682afc8d2",
+      "bytes": 8776959,
+      "bbox": [
+        -35.097456,
+        113.405896,
+        -15.386746,
+        128.891201
+      ]
+    }
   ]
 }
