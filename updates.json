@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 16,
-    "versionName": "1.14",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.14/DropRun-1.14.apk",
-    "sha256": "439f7f3a881aaa8e1e7cbb0ba3dd35b29eee692aa94bd9ae32aace583a6d17e2",
-    "notes": "Silent arrival, confirmation when saving a house location, landscape support"
+    "versionCode": 17,
+    "versionName": "1.15",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.15/DropRun-1.15.apk",
+    "sha256": "a77e12c8c8dcfcfea2300b8bb3a4356fdcca84f9e1c7f65d3cc713675ffab3bd",
+    "notes": "Skip break / end break early now moves on. Map zooms right down to the house with every street. DropRun no longer jumps in front of Maps until you've actually pulled up."
   },
   "maps": [
     {
