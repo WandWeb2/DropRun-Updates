@@ -1,1 +1,0 @@
-Logbook entries now show every drop: order, sheet number, window, arrival, time at door, drive vs predicted.

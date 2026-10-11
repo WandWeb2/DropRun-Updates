@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 42,
-    "versionName": "1.40",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.40/DropRun-1.40.apk",
-    "sha256": "675fe2e6b28a6a6b2e4dcf8aec497c583b8e2559533be3bca079cc85499d6acd",
-    "notes": "Learns slow spots and the roads you really take, run summary you can share, tap a logbook entry for its data."
+    "versionCode": 43,
+    "versionName": "1.41",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.41/DropRun-1.41.apk",
+    "sha256": "f0802a3bf4c4993f35aecf08911805f751d461128aa3d9abae587bad07bb0108",
+    "notes": "Logbook entries now show every drop: order, sheet number, window, arrival, time at door, drive vs predicted."
   },
   "maps": [
     {
