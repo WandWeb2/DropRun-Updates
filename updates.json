@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 11,
-    "versionName": "1.9",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.9/DropRun-1.9.apk",
-    "sha256": "6ef3d4796b2c17b39e759ffefae60e735422bf7bf26eaa448ee865d7bdc1365a",
-    "notes": "Big drop numbers down the left of each card"
+    "versionCode": 12,
+    "versionName": "1.10",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.10/DropRun-1.10.apk",
+    "sha256": "44c6a37fd4ef465f39380e7e3734c6cb63408bdc16e12dac3a23bd30eb43d92e",
+    "notes": "Scan keeps every row, per-page report, easy Remove, start partway through a run"
   },
   "maps": [
     {
