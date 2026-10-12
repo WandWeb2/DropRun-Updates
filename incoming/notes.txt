@@ -1,0 +1,1 @@
+About page; mic button now says what it heard or why it failed
