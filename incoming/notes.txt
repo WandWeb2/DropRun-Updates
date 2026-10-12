@@ -1,0 +1,1 @@
+Reads sideways photos; fixes wrong sequence column
