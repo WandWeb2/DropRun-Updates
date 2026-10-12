@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 48,
-    "versionName": "1.46",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.46/DropRun-1.46.apk",
-    "sha256": "9660a942079ee4419499d31820d38df45f16e27b66c19e2e66bd748fcb6e9c0c",
-    "notes": "Bad scans no longer make one giant drop: it asks for a retake instead"
+    "versionCode": 49,
+    "versionName": "1.47",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.47/DropRun-1.47.apk",
+    "sha256": "71b7e56257f1319d124e83181db97e26509883c4429763663880def4780d7e96",
+    "notes": "Reads sideways photos; fixes wrong sequence column"
   },
   "maps": [
     {
