@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 61,
-    "versionName": "1.59",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.59/DropRun-1.59.apk",
-    "sha256": "1b36686bbbce7e557204f95c354bb7f92b5f76fb6c4160c3e7ac9016fab2d6d4",
-    "notes": "Fixes sheets being read upside down; problem rows show the sheet picture"
+    "versionCode": 62,
+    "versionName": "1.60",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.60/DropRun-1.60.apk",
+    "sha256": "0fa61396961a97b9a6da204dc0b3e09bb3b60f74db730fcff971f43bcfffbf8d",
+    "notes": "Better on slanted photos and short last pages"
   },
   "maps": [
     {
