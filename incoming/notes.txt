@@ -1,1 +1,0 @@
-Checking for updates now always works and tells you which version you have.

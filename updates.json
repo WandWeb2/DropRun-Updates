@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 45,
-    "versionName": "1.43",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.43/DropRun-1.43.apk",
-    "sha256": "e54607a0d951e0a0c6aa983a007d53db2a9b9d38a26477a1f876f98049c2de96",
-    "notes": "Footer now says it runs on your phone and shares no personal data."
+    "versionCode": 46,
+    "versionName": "1.44",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.44/DropRun-1.44.apk",
+    "sha256": "45f44f017879181dc7c13a0a35022ffd5955d4afbd0221c9cc4911a54179799e",
+    "notes": "Checking for updates now always works and tells you which version you have."
   },
   "maps": [
     {
