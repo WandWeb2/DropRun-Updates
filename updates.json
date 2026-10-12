@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 47,
-    "versionName": "1.45",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.45/DropRun-1.45.apk",
-    "sha256": "68a23180e064275e08ea10f9986fd18c263624c6eb42601204e802a961c79d5b",
-    "notes": "Fixes repeated sheet numbers; update check always works and shows your version."
+    "versionCode": 48,
+    "versionName": "1.46",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.46/DropRun-1.46.apk",
+    "sha256": "9660a942079ee4419499d31820d38df45f16e27b66c19e2e66bd748fcb6e9c0c",
+    "notes": "Bad scans no longer make one giant drop: it asks for a retake instead"
   },
   "maps": [
     {

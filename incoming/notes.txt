@@ -1,1 +1,0 @@
-Bad scans no longer make one giant drop: it asks for a retake instead
