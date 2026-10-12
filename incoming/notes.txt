@@ -1,0 +1,1 @@
+Problem cards show the sheet row zoomed, with address/window boxes to fix it
