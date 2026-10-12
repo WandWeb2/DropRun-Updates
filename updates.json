@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 58,
-    "versionName": "1.56",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.56/DropRun-1.56.apk",
-    "sha256": "60d8d97581ad60fb10d4dd057dc963b3edc401ec8017c6f2c6d802e6d075de51",
-    "notes": "Problem cards show the sheet row zoomed, with address/window boxes to fix it"
+    "versionCode": 59,
+    "versionName": "1.57",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.57/DropRun-1.57.apk",
+    "sha256": "5e1f659b6a86fe880b86d82cd6f99d986a8890b67455bdbf0fddf0cde91cb528",
+    "notes": "Problem cards always have fix boxes; picture when available"
   },
   "maps": [
     {
