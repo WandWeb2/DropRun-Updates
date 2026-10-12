@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 55,
-    "versionName": "1.53",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.53/DropRun-1.53.apk",
-    "sha256": "24338182f82414e77e00aad0bacbcba0bcd1895596b423e46697767e018da663",
-    "notes": "Mic button removed"
+    "versionCode": 56,
+    "versionName": "1.54",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.54/DropRun-1.54.apk",
+    "sha256": "f0cb5af60b208ed1dc3711afca9be8f2569d5f1a84d1576fefd56ec897946cc4",
+    "notes": "Compare scanned rows with the sheet photo"
   },
   "maps": [
     {
