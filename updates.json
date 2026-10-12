@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 52,
-    "versionName": "1.50",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.50/DropRun-1.50.apk",
-    "sha256": "6c793212bee5fb81764aaf6da6cde1c7b71571475daa6db89e4cc66c4969119f",
-    "notes": "Delivered shows only once you arrive; Break button on the next card"
+    "versionCode": 53,
+    "versionName": "1.51",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.51/DropRun-1.51.apk",
+    "sha256": "2f9d25b4e085c2b1496135b5bb234d40bd766a74713794d2db0a2eea33a5c4e2",
+    "notes": "Voice: finishes speaking before Maps, drive time and schedule budget; running-late message"
   },
   "maps": [
     {
