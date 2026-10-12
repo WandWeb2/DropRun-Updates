@@ -1,1 +1,0 @@
-Fixes repeated sheet numbers; update check always works and shows your version.
