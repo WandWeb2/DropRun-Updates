@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 49,
-    "versionName": "1.47",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.47/DropRun-1.47.apk",
-    "sha256": "71b7e56257f1319d124e83181db97e26509883c4429763663880def4780d7e96",
-    "notes": "Reads sideways photos; fixes wrong sequence column"
+    "versionCode": 50,
+    "versionName": "1.48",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.48/DropRun-1.48.apk",
+    "sha256": "3801bd5388905843f5e6155cf4c8648aea05c0b828fa50eea3abdd74a62f2e11",
+    "notes": "Sideways pages detected more reliably"
   },
   "maps": [
     {
