@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 59,
-    "versionName": "1.57",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.57/DropRun-1.57.apk",
-    "sha256": "5e1f659b6a86fe880b86d82cd6f99d986a8890b67455bdbf0fddf0cde91cb528",
-    "notes": "Problem cards always have fix boxes; picture when available"
+    "versionCode": 60,
+    "versionName": "1.58",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.58/DropRun-1.58.apk",
+    "sha256": "30dd526caa15c652407d556ff63db759a2e9f1b427dbb62ac671b87047676ba4",
+    "notes": "Table reading fix for some windows; shows why a page was read line by line"
   },
   "maps": [
     {
