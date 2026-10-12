@@ -1,1 +1,0 @@
-Navigates to your pin, else the address; shows pin coordinates; remembers where you stop
