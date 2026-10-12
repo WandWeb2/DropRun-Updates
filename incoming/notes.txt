@@ -1,0 +1,1 @@
+Table reading fix for some windows; shows why a page was read line by line
