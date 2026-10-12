@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 60,
-    "versionName": "1.58",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.58/DropRun-1.58.apk",
-    "sha256": "30dd526caa15c652407d556ff63db759a2e9f1b427dbb62ac671b87047676ba4",
-    "notes": "Table reading fix for some windows; shows why a page was read line by line"
+    "versionCode": 61,
+    "versionName": "1.59",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.59/DropRun-1.59.apk",
+    "sha256": "1b36686bbbce7e557204f95c354bb7f92b5f76fb6c4160c3e7ac9016fab2d6d4",
+    "notes": "Fixes sheets being read upside down; problem rows show the sheet picture"
   },
   "maps": [
     {

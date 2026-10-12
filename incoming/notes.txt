@@ -1,1 +1,0 @@
-Fixes sheets being read upside down; problem rows show the sheet picture
