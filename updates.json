@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 54,
-    "versionName": "1.52",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.52/DropRun-1.52.apk",
-    "sha256": "36e0d23cebe609a3a1b76a3566411f0c229f6f53d4c46dd4d350f66c4cd104d9",
-    "notes": "About page; mic button now says what it heard or why it failed"
+    "versionCode": 55,
+    "versionName": "1.53",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.53/DropRun-1.53.apk",
+    "sha256": "24338182f82414e77e00aad0bacbcba0bcd1895596b423e46697767e018da663",
+    "notes": "Mic button removed"
   },
   "maps": [
     {
