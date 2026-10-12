@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 51,
-    "versionName": "1.49",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.49/DropRun-1.49.apk",
-    "sha256": "8a9e5b55dad0e6e61a1ccd5cfdcf0b27f5e56baad176c76a31e2d7aed7972fc0",
-    "notes": "Navigates to your pin, else the address; shows pin coordinates; remembers where you stop"
+    "versionCode": 52,
+    "versionName": "1.50",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.50/DropRun-1.50.apk",
+    "sha256": "6c793212bee5fb81764aaf6da6cde1c7b71571475daa6db89e4cc66c4969119f",
+    "notes": "Delivered shows only once you arrive; Break button on the next card"
   },
   "maps": [
     {
