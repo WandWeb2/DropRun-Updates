@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 76,
-    "versionName": "1.74",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.74/DropRun-1.74.apk",
-    "sha256": "196913a82ad6de6ba6ac29b7ea006a1e36dbad9b4b8caf0f8df2e3db507d7f27",
-    "notes": "Logbook: view route picture before sharing"
+    "versionCode": 77,
+    "versionName": "1.75",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.75/DropRun-1.75.apk",
+    "sha256": "44f45e0caca06e0b3d478de04576d193dc90b196d8be84877a8d6728ca3fde3e",
+    "notes": "Actual route and sheet vs DropRun vs actual"
   },
   "maps": [
     {
