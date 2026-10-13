@@ -1,1 +1,0 @@
-Share image headline now compares DropRun's plan with the sheet order like-for-like; shows minutes when small, and 'in window' when the sheet order was already close.
