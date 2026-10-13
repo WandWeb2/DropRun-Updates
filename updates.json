@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 72,
-    "versionName": "1.70",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.70/DropRun-1.70.apk",
-    "sha256": "91bb08ba19149665bed81f06fb4339becc56009a8c925c3969dad1920ad47254",
-    "notes": "Cleaner Check the run screen"
+    "versionCode": 73,
+    "versionName": "1.71",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.71/DropRun-1.71.apk",
+    "sha256": "628ec72e9a11f4913f126e873bd71c8031eb2b7a57c0b71771fb5ef1b22f254b",
+    "notes": "Check screen fills in live with a progress %"
   },
   "maps": [
     {
