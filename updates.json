@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 80,
-    "versionName": "1.78",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.78/DropRun-1.78.apk",
-    "sha256": "30f9e39f5adb59ee46854d2b22ba992d8898c9fd4b289c5ff821d8f5a28c63e8",
-    "notes": "Share image: when routes match, headline highlights on-time delivery."
+    "versionCode": 81,
+    "versionName": "1.79",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.79/DropRun-1.79.apk",
+    "sha256": "ca5f94f3a74ee4d7f6e34b97ae8585a50fbdfe07a68da26412736c8a334e00ce",
+    "notes": "Logbook totals and an all-runs map to share. Share images now show only the good news."
   },
   "maps": [
     {
