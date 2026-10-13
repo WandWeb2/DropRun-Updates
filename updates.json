@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 82,
-    "versionName": "1.80",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.80/DropRun-1.80.apk",
-    "sha256": "5aeec2ac6a0827db2fef35e7da55590529a883c61e8371109bca709828fab5b7",
-    "notes": "Breaks removed from logbook and shares. Logbook totals now pick 7, 30, 90 days or all time. Share headline shows km and hours saved."
+    "versionCode": 83,
+    "versionName": "1.81",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.81/DropRun-1.81.apk",
+    "sha256": "001025fae43d0b00318854bdd21e911ecbc400ea7cd568c5350a9cef2dd6b1a2",
+    "notes": "Share map stop markers now use the DropRun pin."
   },
   "maps": [
     {

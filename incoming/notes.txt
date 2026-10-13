@@ -1,1 +1,0 @@
-Share map stop markers now use the DropRun pin.
