@@ -1,0 +1,1 @@
+Breaks removed from logbook and shares. Logbook totals now pick 7, 30, 90 days or all time. Share headline shows km and hours saved.
