@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 75,
-    "versionName": "1.73",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.73/DropRun-1.73.apk",
-    "sha256": "1dcf826cd5a2327f347e952e3fd41abc82ea3919120952b1799adafbef56bfb0",
-    "notes": "Logbook arrival colours"
+    "versionCode": 76,
+    "versionName": "1.74",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.74/DropRun-1.74.apk",
+    "sha256": "196913a82ad6de6ba6ac29b7ea006a1e36dbad9b4b8caf0f8df2e3db507d7f27",
+    "notes": "Logbook: view route picture before sharing"
   },
   "maps": [
     {
