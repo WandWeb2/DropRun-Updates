@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 79,
-    "versionName": "1.77",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.77/DropRun-1.77.apk",
-    "sha256": "975148955082745350d308fc7993359e63eb3aa46071f873e128334f50989489",
-    "notes": "Share image headline now compares DropRun's plan with the sheet order like-for-like; shows minutes when small, and 'in window' when the sheet order was already close."
+    "versionCode": 80,
+    "versionName": "1.78",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.78/DropRun-1.78.apk",
+    "sha256": "30f9e39f5adb59ee46854d2b22ba992d8898c9fd4b289c5ff821d8f5a28c63e8",
+    "notes": "Share image: when routes match, headline highlights on-time delivery."
   },
   "maps": [
     {
