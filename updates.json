@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 77,
-    "versionName": "1.75",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.75/DropRun-1.75.apk",
-    "sha256": "44f45e0caca06e0b3d478de04576d193dc90b196d8be84877a8d6728ca3fde3e",
-    "notes": "Actual route and sheet vs DropRun vs actual"
+    "versionCode": 78,
+    "versionName": "1.76",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.76/DropRun-1.76.apk",
+    "sha256": "d1dfefd2efdd7da8c19fcd801f8798deac9e59cb09befb335a0406a516a9c761",
+    "notes": "Route lines stay visible where they overlap"
   },
   "maps": [
     {
