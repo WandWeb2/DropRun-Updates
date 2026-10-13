@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 64,
-    "versionName": "1.62",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.62/DropRun-1.62.apk",
-    "sha256": "2019718953939a6db4acdee2f2fbd42992986c19565fa67bd7ed91935ffe1394",
-    "notes": "Stops like the servo show in the run order"
+    "versionCode": 65,
+    "versionName": "1.63",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.63/DropRun-1.63.apk",
+    "sha256": "7d250ef6d3ca2390c41e2ea5b3d814f80a88e5966f24bcd5229c725a1913dc87",
+    "notes": "Talks by default: run start, heading off, arrival"
   },
   "maps": [
     {
