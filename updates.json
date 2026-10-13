@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 65,
-    "versionName": "1.63",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.63/DropRun-1.63.apk",
-    "sha256": "7d250ef6d3ca2390c41e2ea5b3d814f80a88e5966f24bcd5229c725a1913dc87",
-    "notes": "Talks by default: run start, heading off, arrival"
+    "versionCode": 66,
+    "versionName": "1.64",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.64/DropRun-1.64.apk",
+    "sha256": "3eb9a008f836508e0c69394d4ecb12c3988b74bb4558d3e4ecc46a7c66aca9a9",
+    "notes": "Breaks while driving (Settings > Breaks); run start says first stop and when to leave"
   },
   "maps": [
     {
