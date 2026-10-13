@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 67,
-    "versionName": "1.65",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.65/DropRun-1.65.apk",
-    "sha256": "d350c4f11ab8176d91d35fae1e490a64af11db56c44874dde46e6c640a40e6e1",
-    "notes": "Driving break optional; finish the rest at the stop; logbook columns"
+    "versionCode": 68,
+    "versionName": "1.66",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.66/DropRun-1.66.apk",
+    "sha256": "88cba81d509cdbfced76a6fb5e6e7575be40d4c22139dcbba956798c5759e9d6",
+    "notes": "Share a run's details from the logbook"
   },
   "maps": [
     {
