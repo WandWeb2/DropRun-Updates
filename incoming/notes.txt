@@ -1,0 +1,1 @@
+Start run no longer waits for road drive times. The plan starts on estimates and updates when they arrive.
