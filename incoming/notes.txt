@@ -1,0 +1,1 @@
+Check screen shows a live log of everything DropRun does until the route is ready. Asks for your start first. Start stays locked until planning is done; skip to sheet order any time.
