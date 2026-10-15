@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 94,
-    "versionName": "1.92",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.92/DropRun-1.92.apk",
-    "sha256": "384438f38d266d37fe4f485810626d772cd6f8059db5b6f4ebde9011ba422e4c",
-    "notes": "Check screen shows a live log of everything DropRun does until the route is ready. Asks for your start first. Start stays locked until planning is done; skip to sheet order any time."
+    "versionCode": 95,
+    "versionName": "1.93",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.93/DropRun-1.93.apk",
+    "sha256": "757332455f996b7056dbd82e9ed4d000b06aeaf81f6d238684ac683b7d9d9035",
+    "notes": "Skip optimisation button now sits above Start while the route is being worked out."
   },
   "maps": [
     {

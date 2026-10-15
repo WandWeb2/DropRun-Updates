@@ -1,1 +1,0 @@
-Skip optimisation button now sits above Start while the route is being worked out.
