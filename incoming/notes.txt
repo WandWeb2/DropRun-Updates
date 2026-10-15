@@ -1,0 +1,1 @@
+Compare routes is faster. Addresses go to maps as number, street, suburb. A drop's pin doesn't move while you're heading to it.
