@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 83,
-    "versionName": "1.81",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.81/DropRun-1.81.apk",
-    "sha256": "001025fae43d0b00318854bdd21e911ecbc400ea7cd568c5350a9cef2dd6b1a2",
-    "notes": "Share map stop markers now use the DropRun pin."
+    "versionCode": 84,
+    "versionName": "1.82",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.82/DropRun-1.82.apk",
+    "sha256": "a36b001cb77eecee10afb69f2820eb074a22088781d42cd598b17ae5f2988684",
+    "notes": "Compare routes is faster. Addresses go to maps as number, street, suburb. A drop's pin doesn't move while you're heading to it."
   },
   "maps": [
     {
