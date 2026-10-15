@@ -1,1 +1,0 @@
-Questionable addresses are checked with you before the route is worked out: pick a suggestion, type it with autocomplete, or keep it.

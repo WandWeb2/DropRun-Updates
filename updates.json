@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 92,
-    "versionName": "1.90",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.90/DropRun-1.90.apk",
-    "sha256": "04e9d93cc74c1fe664dd12651165ec2c31a668ec5fe74159e2a28cf29c483f39",
-    "notes": "Deliver in sheet order switch. Navigation now sends the address instead of an approximate pin, so Maps goes to the right house."
+    "versionCode": 93,
+    "versionName": "1.91",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.91/DropRun-1.91.apk",
+    "sha256": "8e16ad9b93e8d4151d5bead666c0477b6bd83908bbc4bcbf76252158ad21ea36",
+    "notes": "Questionable addresses are checked with you before the route is worked out: pick a suggestion, type it with autocomplete, or keep it."
   },
   "maps": [
     {
