@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 85,
-    "versionName": "1.83",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.83/DropRun-1.83.apk",
-    "sha256": "7571e874a175ccd091381b90892ec60eafc81ea471bc81c356c1ed7a718c51a9",
-    "notes": "Fix: Start run stuck loading. Background route work no longer slows the start."
+    "versionCode": 86,
+    "versionName": "1.84",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.84/DropRun-1.84.apk",
+    "sha256": "bece4cdddae3a6e27d9d9826cac43f2a24d6b1f463c4b651bb8660d4e4504adc",
+    "notes": "Start run no longer waits for road drive times. The plan starts on estimates and updates when they arrive."
   },
   "maps": [
     {
