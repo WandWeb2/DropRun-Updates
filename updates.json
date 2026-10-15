@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 95,
-    "versionName": "1.93",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.93/DropRun-1.93.apk",
-    "sha256": "757332455f996b7056dbd82e9ed4d000b06aeaf81f6d238684ac683b7d9d9035",
-    "notes": "Skip optimisation button now sits above Start while the route is being worked out."
+    "versionCode": 96,
+    "versionName": "1.94",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.94/DropRun-1.94.apk",
+    "sha256": "a8b0290f470e4de473bd1c3c46d97fd181ddf22e2c29f1ba874b3526a087ec67",
+    "notes": "The run list stays hidden until the route is fully worked out. Removed a second re-plan that doubled the wait."
   },
   "maps": [
     {

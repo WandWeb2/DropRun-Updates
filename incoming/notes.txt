@@ -1,1 +1,0 @@
-The run list stays hidden until the route is fully worked out. Removed a second re-plan that doubled the wait.
