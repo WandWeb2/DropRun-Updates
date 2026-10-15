@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 88,
-    "versionName": "1.86",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.86/DropRun-1.86.apk",
-    "sha256": "1fd3f4f4485a48a4611afb422258fe4efbdc1a1bbd7a145251f18ee4d4ff1102",
-    "notes": "Fix: a misread address (no house number) could be placed far away and show huge late times. Now flagged on the check screen, and far-off map matches are rejected."
+    "versionCode": 89,
+    "versionName": "1.87",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.87/DropRun-1.87.apk",
+    "sha256": "24635b3af38f61ed2fedb76969f13305695df572301075f69586274609a28c1a",
+    "notes": "Fix: a locked or dragged order could make a drop hours late. Now set aside whenever it would make anyone late. Late alerts no longer ring; voice only."
   },
   "maps": [
     {
