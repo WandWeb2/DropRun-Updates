@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 93,
-    "versionName": "1.91",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.91/DropRun-1.91.apk",
-    "sha256": "8e16ad9b93e8d4151d5bead666c0477b6bd83908bbc4bcbf76252158ad21ea36",
-    "notes": "Questionable addresses are checked with you before the route is worked out: pick a suggestion, type it with autocomplete, or keep it."
+    "versionCode": 94,
+    "versionName": "1.92",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.92/DropRun-1.92.apk",
+    "sha256": "384438f38d266d37fe4f485810626d772cd6f8059db5b6f4ebde9011ba422e4c",
+    "notes": "Check screen shows a live log of everything DropRun does until the route is ready. Asks for your start first. Start stays locked until planning is done; skip to sheet order any time."
   },
   "maps": [
     {
