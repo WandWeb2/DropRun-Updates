@@ -1,1 +1,0 @@
-Early message uses the current arrival time and lets you type the customer's first name. Loading screens can be tapped away.

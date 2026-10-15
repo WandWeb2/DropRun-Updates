@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 86,
-    "versionName": "1.84",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.84/DropRun-1.84.apk",
-    "sha256": "bece4cdddae3a6e27d9d9826cac43f2a24d6b1f463c4b651bb8660d4e4504adc",
-    "notes": "Start run no longer waits for road drive times. The plan starts on estimates and updates when they arrive."
+    "versionCode": 87,
+    "versionName": "1.85",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.85/DropRun-1.85.apk",
+    "sha256": "ee4570167e3dc5d264276d62a54a598fd14486804929a0857c4436d61816f3de",
+    "notes": "Early message uses the current arrival time and lets you type the customer's first name. Loading screens can be tapped away."
   },
   "maps": [
     {
