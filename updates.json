@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 96,
-    "versionName": "1.94",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.94/DropRun-1.94.apk",
-    "sha256": "a8b0290f470e4de473bd1c3c46d97fd181ddf22e2c29f1ba874b3526a087ec67",
-    "notes": "The run list stays hidden until the route is fully worked out. Removed a second re-plan that doubled the wait."
+    "versionCode": 97,
+    "versionName": "1.95",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.95/DropRun-1.95.apk",
+    "sha256": "1b8dbc7c2b3102874c6794ccef0352320262babfd53b40b1bd7f0216d2811d52",
+    "notes": "Every run now asks where you start, where you finish and when you leave before the route is worked out."
   },
   "maps": [
     {

@@ -1,1 +1,0 @@
-Every run now asks where you start, where you finish and when you leave before the route is worked out.
