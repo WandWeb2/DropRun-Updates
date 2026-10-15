@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 90,
-    "versionName": "1.88",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.88/DropRun-1.88.apk",
-    "sha256": "7b71cbfb3ea33f756629cd4c43cdc47484e9aabffccf276da6fa924826612649",
-    "notes": "DropRun now says when it changes your next drop, and why."
+    "versionCode": 91,
+    "versionName": "1.89",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.89/DropRun-1.89.apk",
+    "sha256": "24a9d0d91e2b022cf1109433766e2ffa7c09a3dec2425809866a09cbd746fe71",
+    "notes": "New planning: fastest route first, then windows. Contact cards for early deliveries; answers lock times. Route is locked once you start."
   },
   "maps": [
     {
