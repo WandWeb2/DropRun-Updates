@@ -1,1 +1,0 @@
-DropRun now says when it changes your next drop, and why.

@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 89,
-    "versionName": "1.87",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.87/DropRun-1.87.apk",
-    "sha256": "24635b3af38f61ed2fedb76969f13305695df572301075f69586274609a28c1a",
-    "notes": "Fix: a locked or dragged order could make a drop hours late. Now set aside whenever it would make anyone late. Late alerts no longer ring; voice only."
+    "versionCode": 90,
+    "versionName": "1.88",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.88/DropRun-1.88.apk",
+    "sha256": "7b71cbfb3ea33f756629cd4c43cdc47484e9aabffccf276da6fa924826612649",
+    "notes": "DropRun now says when it changes your next drop, and why."
   },
   "maps": [
     {
