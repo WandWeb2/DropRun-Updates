@@ -1,1 +1,0 @@
-Fix: a misread address (no house number) could be placed far away and show huge late times. Now flagged on the check screen, and far-off map matches are rejected.

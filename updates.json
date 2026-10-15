@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 87,
-    "versionName": "1.85",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.85/DropRun-1.85.apk",
-    "sha256": "ee4570167e3dc5d264276d62a54a598fd14486804929a0857c4436d61816f3de",
-    "notes": "Early message uses the current arrival time and lets you type the customer's first name. Loading screens can be tapped away."
+    "versionCode": 88,
+    "versionName": "1.86",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.86/DropRun-1.86.apk",
+    "sha256": "1fd3f4f4485a48a4611afb422258fe4efbdc1a1bbd7a145251f18ee4d4ff1102",
+    "notes": "Fix: a misread address (no house number) could be placed far away and show huge late times. Now flagged on the check screen, and far-off map matches are rejected."
   },
   "maps": [
     {
