@@ -1,0 +1,1 @@
+Fix: a locked or dragged order could make a drop hours late. Now set aside whenever it would make anyone late. Late alerts no longer ring; voice only.
