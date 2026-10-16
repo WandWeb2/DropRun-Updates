@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 98,
-    "versionName": "1.96",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.96/DropRun-1.96.apk",
-    "sha256": "6df54d23f8a5fcaec30c8790b4bb64dd74b836a0d70de73acbb6363a8e9ba423",
-    "notes": "The start screen shows only the set-up card until you tap Work out the route."
+    "versionCode": 99,
+    "versionName": "1.97",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.97/DropRun-1.97.apk",
+    "sha256": "999d73c9881c9b78be56fb376001e39dc8632a4fe3f565ff4298d71082da1f58",
+    "notes": "Set-up now asks one question at a time with one-tap answers. Leaving time uses the phone's own time picker."
   },
   "maps": [
     {

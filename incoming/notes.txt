@@ -1,1 +1,0 @@
-Set-up now asks one question at a time with one-tap answers. Leaving time uses the phone's own time picker.
