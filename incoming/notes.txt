@@ -1,0 +1,1 @@
+DropRun 2.0: customer check-ins one at a time before the run, recalculating around refused times. Fixed deliveries shown in light orange, with square pins on the map.
