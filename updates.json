@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 106,
-    "versionName": "2.0.4",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.4/DropRun-2.0.4.apk",
-    "sha256": "575c2af5d2fd215a27a45567d1a0f496adb2dd047ff64c4dfa6b7a9418152470",
-    "notes": "Scanning shows 'Uploading run sheet' with a percentage. Close it with the X at the top right."
+    "versionCode": 107,
+    "versionName": "2.0.5",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.5/DropRun-2.0.5.apk",
+    "sha256": "fc414f00aede1d8e84d3cce83cdf0fe9418e4af2adc05a8b35bbc4fd172625bd",
+    "notes": "Break asks how long (10, 15, 30, 45 or 60 min). Delivered no longer saves your GPS position; use 'Update GPS location to here' when you want to. Tidied up."
   },
   "maps": [
     {
