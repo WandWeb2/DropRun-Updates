@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 99,
-    "versionName": "1.97",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.97/DropRun-1.97.apk",
-    "sha256": "999d73c9881c9b78be56fb376001e39dc8632a4fe3f565ff4298d71082da1f58",
-    "notes": "Set-up now asks one question at a time with one-tap answers. Leaving time uses the phone's own time picker."
+    "versionCode": 100,
+    "versionName": "1.98",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.98/DropRun-1.98.apk",
+    "sha256": "b0f40117188defc55fe428b09b97640e6c80df802e837e23bafcd3f2b417c3ad",
+    "notes": "Fix: after answering the set-up questions the route now gets worked out (it was stuck waiting)."
   },
   "maps": [
     {
