@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 107,
-    "versionName": "2.0.5",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.5/DropRun-2.0.5.apk",
-    "sha256": "fc414f00aede1d8e84d3cce83cdf0fe9418e4af2adc05a8b35bbc4fd172625bd",
-    "notes": "Break asks how long (10, 15, 30, 45 or 60 min). Delivered no longer saves your GPS position; use 'Update GPS location to here' when you want to. Tidied up."
+    "versionCode": 108,
+    "versionName": "2.0.6",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.6/DropRun-2.0.6.apk",
+    "sha256": "7a8a689887259cf0f6b0945ca9998275d1e7c6fb7fa97b80fc72920f18c26551",
+    "notes": "Customers who said no to early are never delivered before their window, even when you're ahead. Order numbers and names no longer end up in addresses."
   },
   "maps": [
     {
