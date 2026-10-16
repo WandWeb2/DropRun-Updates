@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 105,
-    "versionName": "2.0.3",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.3/DropRun-2.0.3.apk",
-    "sha256": "2f64d5f319cea93994eef0f44fd43dc6bcb274db99b3652fd2a6bac613622464",
-    "notes": "Unplanned break: DropRun works out a better order for after it while you rest, and offers it on the break card. Agreed delivery times are always kept."
+    "versionCode": 106,
+    "versionName": "2.0.4",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.4/DropRun-2.0.4.apk",
+    "sha256": "575c2af5d2fd215a27a45567d1a0f496adb2dd047ff64c4dfa6b7a9418152470",
+    "notes": "Scanning shows 'Uploading run sheet' with a percentage. Close it with the X at the top right."
   },
   "maps": [
     {
