@@ -1,1 +1,0 @@
-Faster: Compare routes opens instantly and shows the same route as the check screen. Start, early answers, leave-by and loading order no longer re-plan.

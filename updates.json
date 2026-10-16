@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 100,
-    "versionName": "1.98",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.98/DropRun-1.98.apk",
-    "sha256": "b0f40117188defc55fe428b09b97640e6c80df802e837e23bafcd3f2b417c3ad",
-    "notes": "Fix: after answering the set-up questions the route now gets worked out (it was stuck waiting)."
+    "versionCode": 101,
+    "versionName": "1.99",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.99/DropRun-1.99.apk",
+    "sha256": "7d3d9aa59c2e7e0289e2c27d556605ecd331c0afe594b2bbb51ffe7929bfe44b",
+    "notes": "Faster: Compare routes opens instantly and shows the same route as the check screen. Start, early answers, leave-by and loading order no longer re-plan."
   },
   "maps": [
     {
