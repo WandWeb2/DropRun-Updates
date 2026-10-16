@@ -1,0 +1,1 @@
+Break asks how long (10, 15, 30, 45 or 60 min). Delivered no longer saves your GPS position; use 'Update GPS location to here' when you want to. Tidied up.
