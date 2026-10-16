@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 104,
-    "versionName": "2.0.2",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.2/DropRun-2.0.2.apk",
-    "sha256": "d5f9256f2d1b98f53ce12854cd40f58537a06278de2a72749dc9c1ec4ba6f551",
-    "notes": "Moving a drop no longer re-optimises the run. Tap 'Optimise around changes' if you want it to, or just start with your order."
+    "versionCode": 105,
+    "versionName": "2.0.3",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.3/DropRun-2.0.3.apk",
+    "sha256": "2f64d5f319cea93994eef0f44fd43dc6bcb274db99b3652fd2a6bac613622464",
+    "notes": "Unplanned break: DropRun works out a better order for after it while you rest, and offers it on the break card. Agreed delivery times are always kept."
   },
   "maps": [
     {
