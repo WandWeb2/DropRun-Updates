@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 101,
-    "versionName": "1.99",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.99/DropRun-1.99.apk",
-    "sha256": "7d3d9aa59c2e7e0289e2c27d556605ecd331c0afe594b2bbb51ffe7929bfe44b",
-    "notes": "Faster: Compare routes opens instantly and shows the same route as the check screen. Start, early answers, leave-by and loading order no longer re-plan."
+    "versionCode": 102,
+    "versionName": "2.0",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0/DropRun-2.0.apk",
+    "sha256": "3c61fa2982a2075c9976dfc174fe2edb4984fb55e40a867f18831ee9ddb564d5",
+    "notes": "DropRun 2.0: customer check-ins one at a time before the run, recalculating around refused times. Fixed deliveries shown in light orange, with square pins on the map."
   },
   "maps": [
     {
