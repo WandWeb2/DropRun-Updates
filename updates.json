@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 97,
-    "versionName": "1.95",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.95/DropRun-1.95.apk",
-    "sha256": "1b8dbc7c2b3102874c6794ccef0352320262babfd53b40b1bd7f0216d2811d52",
-    "notes": "Every run now asks where you start, where you finish and when you leave before the route is worked out."
+    "versionCode": 98,
+    "versionName": "1.96",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-1.96/DropRun-1.96.apk",
+    "sha256": "6df54d23f8a5fcaec30c8790b4bb64dd74b836a0d70de73acbb6363a8e9ba423",
+    "notes": "The start screen shows only the set-up card until you tap Work out the route."
   },
   "maps": [
     {
