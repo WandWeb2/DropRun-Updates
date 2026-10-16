@@ -1,1 +1,0 @@
-Fix: after a refusal the check-ins wait with 'Recalculating run…' until the new route is ready, then continue. Name box filled with the customer's first name.

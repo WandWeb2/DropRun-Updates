@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 102,
-    "versionName": "2.0",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0/DropRun-2.0.apk",
-    "sha256": "3c61fa2982a2075c9976dfc174fe2edb4984fb55e40a867f18831ee9ddb564d5",
-    "notes": "DropRun 2.0: customer check-ins one at a time before the run, recalculating around refused times. Fixed deliveries shown in light orange, with square pins on the map."
+    "versionCode": 103,
+    "versionName": "2.0.1",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.1/DropRun-2.0.1.apk",
+    "sha256": "0deb2f35358d137999d2036be043a0719d6e3e8a6291694130173cceb9dddb7a",
+    "notes": "Fix: after a refusal the check-ins wait with 'Recalculating run\u2026' until the new route is ready, then continue. Name box filled with the customer's first name."
   },
   "maps": [
     {
