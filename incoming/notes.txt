@@ -1,0 +1,1 @@
+Moving a drop no longer re-optimises the run. Tap 'Optimise around changes' if you want it to, or just start with your order.
