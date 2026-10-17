@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 110,
-    "versionName": "2.0.8",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.8/DropRun-2.0.8.apk",
-    "sha256": "85b94f803d7cbb9f60f293a7de41761e20963e3ec2948fff07c174b977b05596",
-    "notes": "Sheet close-up shows just the address cell, big enough to read. Tap it for a full-screen pinch-zoom of the whole row, opening on the address."
+    "versionCode": 111,
+    "versionName": "2.0.9",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.9/DropRun-2.0.9.apk",
+    "sha256": "fba36c602092ed824df90b7f31b83f1ce839996be786c1df7a3b90441494f0b3",
+    "notes": "Morning delivery windows (like 6:00 - 12:00) are read properly instead of being rejected."
   },
   "maps": [
     {
