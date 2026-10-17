@@ -1,0 +1,1 @@
+Morning delivery windows (like 6:00 - 12:00) are read properly instead of being rejected.
