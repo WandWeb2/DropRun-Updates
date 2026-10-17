@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 109,
-    "versionName": "2.0.7",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.7/DropRun-2.0.7.apk",
-    "sha256": "fe22eb13453ed41af14304e81ede304102c1649c6c3f3c6facdcd4db270b22e2",
-    "notes": "The upload bar now follows each page as it's read, so it keeps moving instead of sitting at 0%."
+    "versionCode": 110,
+    "versionName": "2.0.8",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.8/DropRun-2.0.8.apk",
+    "sha256": "85b94f803d7cbb9f60f293a7de41761e20963e3ec2948fff07c174b977b05596",
+    "notes": "Sheet close-up shows just the address cell, big enough to read. Tap it for a full-screen pinch-zoom of the whole row, opening on the address."
   },
   "maps": [
     {
