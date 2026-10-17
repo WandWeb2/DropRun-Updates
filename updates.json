@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 108,
-    "versionName": "2.0.6",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.6/DropRun-2.0.6.apk",
-    "sha256": "7a8a689887259cf0f6b0945ca9998275d1e7c6fb7fa97b80fc72920f18c26551",
-    "notes": "Customers who said no to early are never delivered before their window, even when you're ahead. Order numbers and names no longer end up in addresses."
+    "versionCode": 109,
+    "versionName": "2.0.7",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.7/DropRun-2.0.7.apk",
+    "sha256": "fe22eb13453ed41af14304e81ede304102c1649c6c3f3c6facdcd4db270b22e2",
+    "notes": "The upload bar now follows each page as it's read, so it keeps moving instead of sitting at 0%."
   },
   "maps": [
     {

@@ -1,1 +1,0 @@
-The upload bar now follows each page as it's read, so it keeps moving instead of sitting at 0%.
