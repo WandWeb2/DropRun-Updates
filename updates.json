@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 114,
-    "versionName": "2.0.12",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.12/DropRun-2.0.12.apk",
-    "sha256": "309e246e229b7765b1c59ec337eb4218d0603cf5a8e98891e57c8348af8a1360",
-    "notes": "Compare routes no longer recalculates when you come back to it. 'I can reach any order' added to the vehicle loading options."
+    "versionCode": 115,
+    "versionName": "2.0.13",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.13/DropRun-2.0.13.apk",
+    "sha256": "6d750141bb3ea5dc2b32532e3e058544732c97c4ca087b3288152c7fdfb05d2b",
+    "notes": "Privacy policy and location explanation added; contact email. Location is explained before it's asked for."
   },
   "maps": [
     {
