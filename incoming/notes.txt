@@ -1,1 +1,0 @@
-Fix keeps the position of an address picked from the search. Fix and Use town only buttons spaced properly.
