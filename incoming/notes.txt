@@ -1,0 +1,1 @@
+Breaks are now set for each run (pre-run question) and offered where the run has spare time; never on a drive. Spare-time countdown with Behind / On time / Ahead, colour-coded break choices, and a spoken schedule update.
