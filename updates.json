@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 116,
-    "versionName": "2.0.14",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.14/DropRun-2.0.14.apk",
-    "sha256": "d06b72890446a414584b0bec7864944bb630e74db69e53c66a01faa8cc847902",
-    "notes": "About & privacy is now an info icon on Home; privacy page links to the public policy."
+    "versionCode": 117,
+    "versionName": "2.0.15",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.15/DropRun-2.0.15.apk",
+    "sha256": "5e00c0855662f7f54de7f9ea730ad1ea239fbff0cb4010bf6e0dfcbf64a935af",
+    "notes": "Run sheet type: 'Work it out from the sheet' is now 'Automatic'."
   },
   "maps": [
     {
