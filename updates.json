@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 120,
-    "versionName": "2.0.18",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.18/DropRun-2.0.18.apk",
-    "sha256": "8af75f71dd0b3bdd5f0b1f408bda7d50cca66bb0ac29021d7e5a735c9df0a35d",
-    "notes": "Fix keeps the position of an address picked from the search. Fix and Use town only buttons spaced properly."
+    "versionCode": 121,
+    "versionName": "2.0.19",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.19/DropRun-2.0.19.apk",
+    "sha256": "0ad7fa5374f2984f8a79b2c896f3a01c837f6cc2fe37a3ca23367dddfa57e811",
+    "notes": "Check list: the Fix button is now Fix & optimise."
   },
   "maps": [
     {
