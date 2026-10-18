@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 113,
-    "versionName": "2.0.11",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.11/DropRun-2.0.11.apk",
-    "sha256": "b7f4025bb6f57065f675bffd00a084a224100c84f7fabb30571b57437ea6338c",
-    "notes": "New set-up wizard: check your run sheet and set up your vehicles. DropRun can now count the time to dig crates out from behind other drops, and Compare routes shows driving vs digging. Pick your vehicle at the start of each run."
+    "versionCode": 114,
+    "versionName": "2.0.12",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.12/DropRun-2.0.12.apk",
+    "sha256": "309e246e229b7765b1c59ec337eb4218d0603cf5a8e98891e57c8348af8a1360",
+    "notes": "Compare routes no longer recalculates when you come back to it. 'I can reach any order' added to the vehicle loading options."
   },
   "maps": [
     {
