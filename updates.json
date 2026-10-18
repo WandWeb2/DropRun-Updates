@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 123,
-    "versionName": "2.0.21",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.21/DropRun-2.0.21.apk",
-    "sha256": "e3efab50457a972e37450cdac0ce73d05c61fd926511a7f4dbe60b320d80dc9c",
-    "notes": "Planning with breaks: far fewer repeated 'better break timing' moves, and quicker."
+    "versionCode": 124,
+    "versionName": "2.0.22",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.22/DropRun-2.0.22.apk",
+    "sha256": "00f1f8fb0c9356a85503ef1398dd9a0352ea5632d77bbff9b4bae614ceff8a8c",
+    "notes": "Breaks are now set for each run (pre-run question) and offered where the run has spare time; never on a drive. Spare-time countdown with Behind / On time / Ahead, colour-coded break choices, and a spoken schedule update."
   },
   "maps": [
     {
