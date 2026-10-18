@@ -1,0 +1,1 @@
+Planner tries breaks placed after the drops are ordered; the cheapest route is kept.
