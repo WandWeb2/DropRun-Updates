@@ -1,0 +1,1 @@
+Maps now gets just the street address (no village or property names). Delivered saves your spot when you're at the house; new 'Delivered - don't save GPS' for ones done earlier. Delivered -> next now always opens Maps.
