@@ -1,1 +1,0 @@
-Sheet type shows Automatic when not chosen (scan screen and Personalise).
