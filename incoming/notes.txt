@@ -1,0 +1,1 @@
+Planning with breaks: far fewer repeated 'better break timing' moves, and quicker.
