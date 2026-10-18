@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 122,
-    "versionName": "2.0.20",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.20/DropRun-2.0.20.apk",
-    "sha256": "c2cef569dfbdae72d66a261104be86044933a79844707df0b99cf23d5436c4dc",
-    "notes": "Planner tries breaks placed after the drops are ordered; the cheapest route is kept."
+    "versionCode": 123,
+    "versionName": "2.0.21",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.21/DropRun-2.0.21.apk",
+    "sha256": "e3efab50457a972e37450cdac0ce73d05c61fd926511a7f4dbe60b320d80dc9c",
+    "notes": "Planning with breaks: far fewer repeated 'better break timing' moves, and quicker."
   },
   "maps": [
     {
