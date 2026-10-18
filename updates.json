@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 111,
-    "versionName": "2.0.9",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.9/DropRun-2.0.9.apk",
-    "sha256": "fba36c602092ed824df90b7f31b83f1ce839996be786c1df7a3b90441494f0b3",
-    "notes": "Morning delivery windows (like 6:00 - 12:00) are read properly instead of being rejected."
+    "versionCode": 112,
+    "versionName": "2.0.10",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.10/DropRun-2.0.10.apk",
+    "sha256": "fd70bfd30d0424d3226a32a5a8225b574d2c7caf671c0e5460f5eedee622b718",
+    "notes": "Maps now gets just the street address (no village or property names). Delivered saves your spot when you're at the house; new 'Delivered - don't save GPS' for ones done earlier. Delivered -> next now always opens Maps."
   },
   "maps": [
     {
