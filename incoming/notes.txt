@@ -1,0 +1,1 @@
+Run sheet type: 'Work it out from the sheet' is now 'Automatic'.
