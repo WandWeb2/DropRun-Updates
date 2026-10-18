@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 117,
-    "versionName": "2.0.15",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.15/DropRun-2.0.15.apk",
-    "sha256": "5e00c0855662f7f54de7f9ea730ad1ea239fbff0cb4010bf6e0dfcbf64a935af",
-    "notes": "Run sheet type: 'Work it out from the sheet' is now 'Automatic'."
+    "versionCode": 118,
+    "versionName": "2.0.16",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.16/DropRun-2.0.16.apk",
+    "sha256": "69ba2f7b393b8f19d2953d6753b691751f09e1e7d6142e7012ae6916e46ad8f1",
+    "notes": "Delivered saves your GPS spot even when the pin is far away (accuracy and freshness still checked)."
   },
   "maps": [
     {
