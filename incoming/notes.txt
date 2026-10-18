@@ -1,0 +1,1 @@
+Delivered saves your GPS spot even when the pin is far away (accuracy and freshness still checked).
