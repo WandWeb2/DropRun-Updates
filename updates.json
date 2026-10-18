@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 115,
-    "versionName": "2.0.13",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.13/DropRun-2.0.13.apk",
-    "sha256": "6d750141bb3ea5dc2b32532e3e058544732c97c4ca087b3288152c7fdfb05d2b",
-    "notes": "Privacy policy and location explanation added; contact email. Location is explained before it's asked for."
+    "versionCode": 116,
+    "versionName": "2.0.14",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.14/DropRun-2.0.14.apk",
+    "sha256": "d06b72890446a414584b0bec7864944bb630e74db69e53c66a01faa8cc847902",
+    "notes": "About & privacy is now an info icon on Home; privacy page links to the public policy."
   },
   "maps": [
     {
