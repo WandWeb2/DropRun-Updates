@@ -1,1 +1,0 @@
-New set-up wizard: check your run sheet and set up your vehicles. DropRun can now count the time to dig crates out from behind other drops, and Compare routes shows driving vs digging. Pick your vehicle at the start of each run.

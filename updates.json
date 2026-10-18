@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 112,
-    "versionName": "2.0.10",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.10/DropRun-2.0.10.apk",
-    "sha256": "fd70bfd30d0424d3226a32a5a8225b574d2c7caf671c0e5460f5eedee622b718",
-    "notes": "Maps now gets just the street address (no village or property names). Delivered saves your spot when you're at the house; new 'Delivered - don't save GPS' for ones done earlier. Delivered -> next now always opens Maps."
+    "versionCode": 113,
+    "versionName": "2.0.11",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.11/DropRun-2.0.11.apk",
+    "sha256": "b7f4025bb6f57065f675bffd00a084a224100c84f7fabb30571b57437ea6338c",
+    "notes": "New set-up wizard: check your run sheet and set up your vehicles. DropRun can now count the time to dig crates out from behind other drops, and Compare routes shows driving vs digging. Pick your vehicle at the start of each run."
   },
   "maps": [
     {
