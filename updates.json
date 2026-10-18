@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 124,
-    "versionName": "2.0.22",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.22/DropRun-2.0.22.apk",
-    "sha256": "00f1f8fb0c9356a85503ef1398dd9a0352ea5632d77bbff9b4bae614ceff8a8c",
-    "notes": "Breaks are now set for each run (pre-run question) and offered where the run has spare time; never on a drive. Spare-time countdown with Behind / On time / Ahead, colour-coded break choices, and a spoken schedule update."
+    "versionCode": 125,
+    "versionName": "2.0.23",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.23/DropRun-2.0.23.apk",
+    "sha256": "a3ab65acdff1ba0aed30f8384997b1a8a5d020a584c4efbfc535722650c0dd8b",
+    "notes": "Android Auto: your next drop, spare time, Navigate and Delivered on the car screen. Turn on Unknown sources in Android Auto's developer settings to see DropRun in the car."
   },
   "maps": [
     {
