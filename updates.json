@@ -11,10 +11,10 @@
     {
       "region": "act",
       "name": "Australian Capital Territory",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-act.drg.gz",
-      "built": 1793472872,
-      "sha256": "6751f4ea9f7aa417bf79bc7115f9ff2822dc63febaf3b9750e612ac23bddd7d7",
-      "bytes": 670826,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-act.drg.gz",
+      "built": 1794078655,
+      "sha256": "a99316034d6269a8de3207248a26bfa7764366f644344ccbaa8bda7bde59b52b",
+      "bytes": 671585,
       "bbox": [
         -35.9224,
         148.7556,
@@ -25,10 +25,10 @@
     {
       "region": "nsw",
       "name": "New South Wales",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-nsw.drg.gz",
-      "built": 1793472928,
-      "sha256": "882968db0c54521c665ed19289689792e918a751a076414726c04beb026a008a",
-      "bytes": 15077666,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-nsw.drg.gz",
+      "built": 1794078705,
+      "sha256": "b0b2f0ac03e2209a38b704084373122b6409694a770d886e460f11501c449c9b",
+      "bytes": 15086410,
       "bbox": [
         -37.4824,
         140.2042,
@@ -39,10 +39,10 @@
     {
       "region": "nt",
       "name": "Northern Territory",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-nt.drg.gz",
-      "built": 1793472870,
-      "sha256": "68d92409862c8cc4cfdddb60eef77071fc0475ce6a61ae1cdcfe710486d6d5e6",
-      "bytes": 1269025,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-nt.drg.gz",
+      "built": 1794078656,
+      "sha256": "1f0947fe69a6dcd181c6d2d20e40de75635f5095e2ee083762f025d8667073a4",
+      "bytes": 1269536,
       "bbox": [
         -26.2733,
         127.7484,
@@ -53,10 +53,10 @@
     {
       "region": "qld",
       "name": "Queensland",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-qld.drg.gz",
-      "built": 1793472909,
-      "sha256": "c27c9559cc816a736ef5633d8bcccb4e462ff84e7db72c4a2dc35e200f84481a",
-      "bytes": 11445617,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-qld.drg.gz",
+      "built": 1794078696,
+      "sha256": "2a91a73098c45e4623396717ce1b3a26e06aab512c514457b0b156ba4ebee5e6",
+      "bytes": 11452846,
       "bbox": [
         -29.6477,
         136.2472,
@@ -67,10 +67,10 @@
     {
       "region": "sa",
       "name": "South Australia",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-sa.drg.gz",
-      "built": 1793472889,
-      "sha256": "d82b15fb861b06fec3e5f69354d0a3203ea8071527c7be3690b06a0770956fba",
-      "bytes": 5061646,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-sa.drg.gz",
+      "built": 1794078667,
+      "sha256": "a5138d81f0da9df32faaaa418d353c36bb24104aa1185e5f164f7b4d2f5b97a5",
+      "bytes": 5067108,
       "bbox": [
         -38.0591,
         128.89,
@@ -81,10 +81,10 @@
     {
       "region": "tas",
       "name": "Tasmania",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-tas.drg.gz",
-      "built": 1793472876,
-      "sha256": "2b2aee820479b34466cbe0ac3179b68ac5d32d72ab2e137ca1a826acda333e8e",
-      "bytes": 1698424,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-tas.drg.gz",
+      "built": 1794078658,
+      "sha256": "17178dc783948b9405e0a2b4cd159d8b3e45eb904d39b786fc36d257117c396b",
+      "bytes": 1698624,
       "bbox": [
         -43.5882,
         144.6143,
@@ -95,10 +95,10 @@
     {
       "region": "vic",
       "name": "Victoria",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-vic.drg.gz",
-      "built": 1793472920,
-      "sha256": "97217d10d817d1190495c8f1ae66886df84623bf3fa9d2addc8f006e10fcfecd",
-      "bytes": 12385004,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-vic.drg.gz",
+      "built": 1794078696,
+      "sha256": "b173adda147de0986701834f345c691c2b4e9077b69d4c50f9b293715ac03632",
+      "bytes": 12387989,
       "bbox": [
         -39.0338,
         140.6595,
@@ -109,10 +109,10 @@
     {
       "region": "wa",
       "name": "Western Australia",
-      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-10-31/roads-wa.drg.gz",
-      "built": 1793472891,
-      "sha256": "6f20388a3ca828333d392251842fb4a6cfd0ba087420b8cc19ea67dc246bbb41",
-      "bytes": 7176671,
+      "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/maps-2026-11-07/roads-wa.drg.gz",
+      "built": 1794078678,
+      "sha256": "beaf889cd746c878f18a98293293adec0f2cad802c5834887f2ec031cadf65dc",
+      "bytes": 7180023,
       "bbox": [
         -35.1201,
         113.3763,
