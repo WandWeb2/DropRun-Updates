@@ -1,0 +1,1 @@
+Fixes for misread addresses: junk after an address is trimmed, a name read as the address is flagged, the whole sheet row is shown for doubtful addresses, and you can drag a box around the address on the sheet to read it. Scan screen now says Reading page (nothing is uploaded).
