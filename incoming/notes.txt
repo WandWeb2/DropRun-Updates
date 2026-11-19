@@ -1,1 +1,0 @@
-Exact pins now go to Maps as coordinates (🎯 marks them). Offline: readiness card on Home, saved road closures, on-phone voice answers, addresses found automatically when signal returns.

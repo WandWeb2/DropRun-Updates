@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 125,
-    "versionName": "2.0.23",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.23/DropRun-2.0.23.apk",
-    "sha256": "a3ab65acdff1ba0aed30f8384997b1a8a5d020a584c4efbfc535722650c0dd8b",
-    "notes": "Android Auto: your next drop, spare time, Navigate and Delivered on the car screen. Turn on Unknown sources in Android Auto's developer settings to see DropRun in the car."
+    "versionCode": 126,
+    "versionName": "2.0.24",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.24/DropRun-2.0.24.apk",
+    "sha256": "0bc11a93bb90d48055cebecca378fcf89eec1a5f777a8d68edd9b286957c8303",
+    "notes": "Exact pins now go to Maps as coordinates (\ud83c\udfaf marks them). Offline: readiness card on Home, saved road closures, on-phone voice answers, addresses found automatically when signal returns."
   },
   "maps": [
     {
