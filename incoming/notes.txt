@@ -1,1 +1,0 @@
-Fixes the extra phantom stop made by a customer name that wraps onto two lines, and the blurry off-screen picture when picking an address on the sheet.

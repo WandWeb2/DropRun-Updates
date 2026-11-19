@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 127,
-    "versionName": "2.0.25",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.25/DropRun-2.0.25.apk",
-    "sha256": "5f5bf4c483dd0f361f1013d9ce444cf5af56f9541e19f136d2a1248e247c8bdd",
-    "notes": "Fixes for misread addresses: junk after an address is trimmed, a name read as the address is flagged, the whole sheet row is shown for doubtful addresses, and you can drag a box around the address on the sheet to read it. Scan screen now says Reading page (nothing is uploaded)."
+    "versionCode": 128,
+    "versionName": "2.0.26",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.26/DropRun-2.0.26.apk",
+    "sha256": "7ddadadae6f49e45a1993945757899a87004b9dc079f9b5dc75ad43e42eda19d",
+    "notes": "Fixes the extra phantom stop made by a customer name that wraps onto two lines, and the blurry off-screen picture when picking an address on the sheet."
   },
   "maps": [
     {
