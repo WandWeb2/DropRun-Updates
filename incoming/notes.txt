@@ -1,0 +1,1 @@
+Only spots you've saved (marked with a bullseye) are sent to Maps as coordinates; every other drop goes by address. The bullseye now shows only on saved spots.
