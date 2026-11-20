@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 128,
-    "versionName": "2.0.26",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.26/DropRun-2.0.26.apk",
-    "sha256": "7ddadadae6f49e45a1993945757899a87004b9dc079f9b5dc75ad43e42eda19d",
-    "notes": "Fixes the extra phantom stop made by a customer name that wraps onto two lines, and the blurry off-screen picture when picking an address on the sheet."
+    "versionCode": 129,
+    "versionName": "2.0.27",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.27/DropRun-2.0.27.apk",
+    "sha256": "f802c15220a45958fa1618258c95f78771395ff80897d592234c423b678e4184",
+    "notes": "Only spots you've saved (marked with a bullseye) are sent to Maps as coordinates; every other drop goes by address. The bullseye now shows only on saved spots."
   },
   "maps": [
     {
