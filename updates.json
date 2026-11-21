@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 129,
-    "versionName": "2.0.27",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.27/DropRun-2.0.27.apk",
-    "sha256": "f802c15220a45958fa1618258c95f78771395ff80897d592234c423b678e4184",
-    "notes": "Only spots you've saved (marked with a bullseye) are sent to Maps as coordinates; every other drop goes by address. The bullseye now shows only on saved spots."
+    "versionCode": 130,
+    "versionName": "2.0.28",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.28/DropRun-2.0.28.apk",
+    "sha256": "b0014d6abb801e51ca77547ff14b2e4d09f90e498ef8aeb9163fbf677f23e516",
+    "notes": "Fixes Save doing nothing in Check the run after picking an address from the suggestions: the picked spot is now kept."
   },
   "maps": [
     {

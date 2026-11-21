@@ -1,1 +1,0 @@
-Fixes Save doing nothing in Check the run after picking an address from the suggestions: the picked spot is now kept.
