@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 130,
-    "versionName": "2.0.28",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.28/DropRun-2.0.28.apk",
-    "sha256": "b0014d6abb801e51ca77547ff14b2e4d09f90e498ef8aeb9163fbf677f23e516",
-    "notes": "Fixes Save doing nothing in Check the run after picking an address from the suggestions: the picked spot is now kept."
+    "versionCode": 131,
+    "versionName": "2.0.29",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.29/DropRun-2.0.29.apk",
+    "sha256": "292ddc69bf98eb7d8fb2b8959f9af6399aa9e2c3a2773890b2de7cfa2c349f09",
+    "notes": "A question mark marks addresses you haven't saved (bullseye = saved spot). Delivered is now protected from being undone by a re-plan, and re-marks the drop if its mark is ever lost."
   },
   "maps": [
     {

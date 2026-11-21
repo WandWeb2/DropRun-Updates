@@ -1,1 +1,0 @@
-A question mark marks addresses you haven't saved (bullseye = saved spot). Delivered is now protected from being undone by a re-plan, and re-marks the drop if its mark is ever lost.
