@@ -1,0 +1,1 @@
+The Text button now sends the customer's number in +61 form, so the leading 0 is no longer dropped.
