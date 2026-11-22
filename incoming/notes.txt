@@ -1,0 +1,1 @@
+On the approach to the next stop (within about 900 m) DropRun now always says the address, with the delivery notes if there are any, in a gap between Maps' instructions. Also applies to drops with an approximate pin. Arrival then skips the notes already read.
