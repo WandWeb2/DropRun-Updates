@@ -1,0 +1,1 @@
+Navigation now sends Maps coordinates for any house-level pin (not just spots you've saved), so Maps can't drop you on the road for a rural address; only street-only guesses still go by address text. The approach announcement starts earlier (about 1.2 km out) and waits at most 20 s for a gap in Maps' voice.
