@@ -1,1 +1,0 @@
-On arrival DropRun now says the delivery address, then reads out the delivery notes (phone numbers read in groups, long notes trimmed), then the timing. Addresses are spoken more naturally (unit numbers, no postcode/state, more road abbreviations), the early-delivery question is clearer, and minutes/hours are worded properly.
