@@ -1,1 +1,0 @@
-Fixes the app freezing while the route is being worked out: the planning log is now batched and capped so a burst of optimiser steps can't lock up the screen.
