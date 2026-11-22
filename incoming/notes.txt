@@ -1,1 +1,0 @@
-A customer's name read into the address now moves to the name field (new scans and your saved run). The two no-answer buttons on the early check-in are combined. A low-battery or battery-saver pill tells you to tap Wait if the app freezes.

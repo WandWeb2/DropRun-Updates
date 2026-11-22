@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 148,
-    "versionName": "2.0.46",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.46/DropRun-2.0.46.apk",
-    "sha256": "ea71a501dbb88679b80a83111c6d041622cc9c49dd3f26b3787211fe99abae3f",
-    "notes": "Fixes the app freezing while the route is being worked out: the planning log is now batched and capped so a burst of optimiser steps can't lock up the screen."
+    "versionCode": 150,
+    "versionName": "2.0.48",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.48/DropRun-2.0.48.apk",
+    "sha256": "537544c262d6e834b46bf72f1e45c9da1d329d3e5994a35749ee6194f19fc71d",
+    "notes": "A customer's name read into the address now moves to the name field (new scans and your saved run). The two no-answer buttons on the early check-in are combined. A low-battery or battery-saver pill tells you to tap Wait if the app freezes."
   },
   "maps": [
     {
