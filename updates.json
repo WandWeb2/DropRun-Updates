@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 151,
-    "versionName": "2.0.49",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.49/DropRun-2.0.49.apk",
-    "sha256": "5d22b1b60205f7e45f87a9f82a593b1a597fa276f44696aa33f97f580b5e60a2",
-    "notes": "Check the run: every drop card now shows its ETA, locked deliveries are silver, and late (red) or tight (amber) drops are outlined. The route map uses the same colours: silver locked stops and red/amber rings."
+    "versionCode": 152,
+    "versionName": "2.0.50",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.50/DropRun-2.0.50.apk",
+    "sha256": "ed419e62315ab668032fd0b24ba5379e1763903be76b13bf2ed592bd6bd27735",
+    "notes": "The spoken schedule now tells you the time up your sleeve (how far the run can slip before a delivery goes late) instead of the time until the next window closes."
   },
   "maps": [
     {

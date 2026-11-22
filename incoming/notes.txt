@@ -1,1 +1,0 @@
-The spoken schedule now tells you the time up your sleeve (how far the run can slip before a delivery goes late) instead of the time until the next window closes.
