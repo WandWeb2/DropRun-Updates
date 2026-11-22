@@ -1,0 +1,1 @@
+Late grace is now asked for each run in the setup questions (0 to 30 minutes after the window closes, usually 15). DropRun plans to it and only warns beyond it. Check the run has save-time options on the Estimated run card: accept a few drops a little past the grace and/or more digging to get home sooner, with an Undo. Replaces the fixed safety buffer setting.
