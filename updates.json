@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 135,
-    "versionName": "2.0.33",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.33/DropRun-2.0.33.apk",
-    "sha256": "b756a07212cec238401227cd2f54a96a830c217df2878458dff6f8690d4b52d1",
-    "notes": "Navigation now sends Maps coordinates for any house-level pin (not just spots you've saved), so Maps can't drop you on the road for a rural address; only street-only guesses still go by address text. The approach announcement starts earlier (about 1.2 km out) and waits at most 20 s for a gap in Maps' voice."
+    "versionCode": 136,
+    "versionName": "2.0.34",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.34/DropRun-2.0.34.apk",
+    "sha256": "9524315ef7d87d2ef69320c5861c8ad05ca7883f4f75d2d490a0e82e12106f43",
+    "notes": "The run log now shows each break (start, end, length) between the drops, and in the shared image. Missing figures fixed: arrivals are now logged even when a break is next on the plan, and short hops under 3 minutes get their drive times shown. A dash in the table now has an explanation underneath."
   },
   "maps": [
     {
