@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 137,
-    "versionName": "2.0.35",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.35/DropRun-2.0.35.apk",
-    "sha256": "130697088407d09ee61b476b30125605b0a23859cb69289ef961ce23e76dfc96",
-    "notes": "Digging now follows how your truck is really packed. Set per vehicle: whether rows are filled from the back wall (part-full row at the door) or from the door, and whether a row is filled tower by tower or layer by layer. Only the crates in the way count: those above the one you need in its tower, and those in line in front. Crates are treated as pulled forward as drops go. Edit your vehicle to choose the layout (it defaults to back wall first, tower by tower)."
+    "versionCode": 138,
+    "versionName": "2.0.36",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.36/DropRun-2.0.36.apk",
+    "sha256": "f80e01374eeb8ddbd7b58edaaaf210d672172beeb91d35aa7c3fba9e71a5deb5",
+    "notes": "Digging now follows how dolly trucks are really loaded. Rows are counted from the door by crate count (part-full row at the door or the back, set per vehicle). To reach a drop, every row in front of its deepest crate has to be cleared, costed per crate moved. A row that has been cleared or emptied stays out of the way. New per-vehicle setting for how strongly the planner avoids going deep (real time, mild or strong). Replaces the tower model from 2.0.35."
   },
   "maps": [
     {
