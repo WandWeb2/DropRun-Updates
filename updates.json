@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 143,
-    "versionName": "2.0.41",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.41/DropRun-2.0.41.apk",
-    "sha256": "759ec4a43e7dc852cd199f0eaabeb19b05819cc4e9b5e1fe54d501704fc3993e",
-    "notes": "Text the customer from the early-delivery screens (name and mobile fields, one tap opens the message ready to send). Check the run now shows the summary and options first, with a Use sheet order button that's suggested when DropRun's route saves little. The routing chip only shows when it has news. Next stop now appears as a car-screen message in Android Auto, and replying delivered marks the drop delivered."
+    "versionCode": 144,
+    "versionName": "2.0.42",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.42/DropRun-2.0.42.apk",
+    "sha256": "2373be514763ebaecf4b30bfa2f4d9a4ba536c13e8a0ca7e87d86df8dafdeffb",
+    "notes": "The Text button now sends the customer's number in +61 form, so the leading 0 is no longer dropped."
   },
   "maps": [
     {
