@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 134,
-    "versionName": "2.0.32",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.32/DropRun-2.0.32.apk",
-    "sha256": "a3fb9ca6362648c6abeda73f48bb44cdc62e8af3bd4b2f783b8f649ce529704a",
-    "notes": "On the approach to the next stop (within about 900 m) DropRun now always says the address, with the delivery notes if there are any, in a gap between Maps' instructions. Also applies to drops with an approximate pin. Arrival then skips the notes already read."
+    "versionCode": 135,
+    "versionName": "2.0.33",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.33/DropRun-2.0.33.apk",
+    "sha256": "b756a07212cec238401227cd2f54a96a830c217df2878458dff6f8690d4b52d1",
+    "notes": "Navigation now sends Maps coordinates for any house-level pin (not just spots you've saved), so Maps can't drop you on the road for a rural address; only street-only guesses still go by address text. The approach announcement starts earlier (about 1.2 km out) and waits at most 20 s for a gap in Maps' voice."
   },
   "maps": [
     {
