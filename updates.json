@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 138,
-    "versionName": "2.0.36",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.36/DropRun-2.0.36.apk",
-    "sha256": "f80e01374eeb8ddbd7b58edaaaf210d672172beeb91d35aa7c3fba9e71a5deb5",
-    "notes": "Digging now follows how dolly trucks are really loaded. Rows are counted from the door by crate count (part-full row at the door or the back, set per vehicle). To reach a drop, every row in front of its deepest crate has to be cleared, costed per crate moved. A row that has been cleared or emptied stays out of the way. New per-vehicle setting for how strongly the planner avoids going deep (real time, mild or strong). Replaces the tower model from 2.0.35."
+    "versionCode": 139,
+    "versionName": "2.0.37",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.37/DropRun-2.0.37.apk",
+    "sha256": "48608d2b59e8544b7b7a17c425c2b98b5695398bee468199bd48a065de5ae263",
+    "notes": "Voice answers removed (DropRun still speaks; no microphone permission needed). Planning ahead: a leave time well before now is treated as tomorrow, so the plan starts at that time instead of now. Check the run now has an Estimated run card: home time, km, time and km saved against the sheet order, digging and late drops. Late warnings fixed: only a drop expected after its window closes says it will be late; a drop inside the 10 minute safety buffer now says it is cutting it close."
   },
   "maps": [
     {
