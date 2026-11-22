@@ -1,1 +1,0 @@
-Agreed times are promises: DropRun plans around them first (a missed agreed time weighs as four late drops), the route comparison counts them and warns when an order would break one. Check the run now says 'may be late' because it's only a plan.

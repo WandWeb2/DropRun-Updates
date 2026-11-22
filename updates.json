@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 152,
-    "versionName": "2.0.50",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.50/DropRun-2.0.50.apk",
-    "sha256": "ed419e62315ab668032fd0b24ba5379e1763903be76b13bf2ed592bd6bd27735",
-    "notes": "The spoken schedule now tells you the time up your sleeve (how far the run can slip before a delivery goes late) instead of the time until the next window closes."
+    "versionCode": 154,
+    "versionName": "2.0.52",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.52/DropRun-2.0.52.apk",
+    "sha256": "ab250b7f9470398f446649dbea28629c6ae3b56279685755898262c30c884060",
+    "notes": "Agreed times are promises: DropRun plans around them first (a missed agreed time weighs as four late drops), the route comparison counts them and warns when an order would break one. Check the run now says 'may be late' because it's only a plan."
   },
   "maps": [
     {
