@@ -1,1 +1,0 @@
-Check the run: every drop card now shows its ETA, locked deliveries are silver, and late (red) or tight (amber) drops are outlined. The route map uses the same colours: silver locked stops and red/amber rings.
