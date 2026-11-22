@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 139,
-    "versionName": "2.0.37",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.37/DropRun-2.0.37.apk",
-    "sha256": "48608d2b59e8544b7b7a17c425c2b98b5695398bee468199bd48a065de5ae263",
-    "notes": "Voice answers removed (DropRun still speaks; no microphone permission needed). Planning ahead: a leave time well before now is treated as tomorrow, so the plan starts at that time instead of now. Check the run now has an Estimated run card: home time, km, time and km saved against the sheet order, digging and late drops. Late warnings fixed: only a drop expected after its window closes says it will be late; a drop inside the 10 minute safety buffer now says it is cutting it close."
+    "versionCode": 141,
+    "versionName": "2.0.39",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.39/DropRun-2.0.39.apk",
+    "sha256": "422476fe0bf53ed89ccf5e509d26c0c1f01ca6f74dbe0ddef499ec80684a5518",
+    "notes": "Late grace is now asked for each run in the setup questions (0 to 30 minutes after the window closes, usually 15). DropRun plans to it and only warns beyond it. Check the run has save-time options on the Estimated run card: accept a few drops a little past the grace and/or more digging to get home sooner, with an Undo. Replaces the fixed safety buffer setting."
   },
   "maps": [
     {
