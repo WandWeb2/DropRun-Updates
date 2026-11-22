@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 136,
-    "versionName": "2.0.34",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.34/DropRun-2.0.34.apk",
-    "sha256": "9524315ef7d87d2ef69320c5861c8ad05ca7883f4f75d2d490a0e82e12106f43",
-    "notes": "The run log now shows each break (start, end, length) between the drops, and in the shared image. Missing figures fixed: arrivals are now logged even when a break is next on the plan, and short hops under 3 minutes get their drive times shown. A dash in the table now has an explanation underneath."
+    "versionCode": 137,
+    "versionName": "2.0.35",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.35/DropRun-2.0.35.apk",
+    "sha256": "130697088407d09ee61b476b30125605b0a23859cb69289ef961ce23e76dfc96",
+    "notes": "Digging now follows how your truck is really packed. Set per vehicle: whether rows are filled from the back wall (part-full row at the door) or from the door, and whether a row is filled tower by tower or layer by layer. Only the crates in the way count: those above the one you need in its tower, and those in line in front. Crates are treated as pulled forward as drops go. Edit your vehicle to choose the layout (it defaults to back wall first, tower by tower)."
   },
   "maps": [
     {
