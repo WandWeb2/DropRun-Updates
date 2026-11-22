@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 132,
-    "versionName": "2.0.30",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.30/DropRun-2.0.30.apk",
-    "sha256": "3bde89ed922e75caa5256e20fc932421e29e02736a36040cf80473f8c885b5ab",
-    "notes": "On arrival DropRun now says the delivery address, then reads out the delivery notes (phone numbers read in groups, long notes trimmed), then the timing. Addresses are spoken more naturally (unit numbers, no postcode/state, more road abbreviations), the early-delivery question is clearer, and minutes/hours are worded properly."
+    "versionCode": 133,
+    "versionName": "2.0.31",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.31/DropRun-2.0.31.apk",
+    "sha256": "27c20f0fee5eb8b7a01caa9010bef3159556ea684651065e066fbb2fffe3e342",
+    "notes": "Delivery notes are now read out on the drive in (when you're within about 900 m), waiting for a gap between Maps' turn instructions so the voices don't overlap; the arrival line then skips notes already read. Unsaved (question mark) addresses are matched more carefully: the right suburb and house number are preferred over whatever is nearest, and a wrong-suburb match is marked approximate."
   },
   "maps": [
     {
