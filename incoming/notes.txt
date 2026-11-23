@@ -1,1 +1,0 @@
-Shared run report redesigned: A4 page with the DropRun logo, headline numbers, plan vs actual and a tidier drop table. The footer no longer overlaps the last row.

@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 154,
-    "versionName": "2.0.52",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.52/DropRun-2.0.52.apk",
-    "sha256": "ab250b7f9470398f446649dbea28629c6ae3b56279685755898262c30c884060",
-    "notes": "Agreed times are promises: DropRun plans around them first (a missed agreed time weighs as four late drops), the route comparison counts them and warns when an order would break one. Check the run now says 'may be late' because it's only a plan."
+    "versionCode": 155,
+    "versionName": "2.0.53",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.53/DropRun-2.0.53.apk",
+    "sha256": "66818df1748cbe18ce1a17b013d0b8e4ff902c8b2ee855c018e23f606a5d71cb",
+    "notes": "Shared run report redesigned: A4 page with the DropRun logo, headline numbers, plan vs actual and a tidier drop table. The footer no longer overlaps the last row."
   },
   "maps": [
     {
