@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 162,
-    "versionName": "2.0.60",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.60/DropRun-2.0.60.apk",
-    "sha256": "61337ba3e9b96ff11d5fe6ce6154d0bc2092b9ecdd410d7c906c1311cc86dc5c",
-    "notes": "DropRun's voice makes room for Maps: it finishes its heading line before Maps opens (length estimated from the words), waits for gaps in Maps' own prompts, and the arrival line waits for Maps' 'you have arrived'. Spoken location notes are shorter: known precise location, estimated location, address not found."
+    "versionCode": 165,
+    "versionName": "2.0.63",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.63/DropRun-2.0.63.apk",
+    "sha256": "4c7619d013510066ef44de3c25e1e665ef1e81f9e4895e847b7fec7c30dbc194",
+    "notes": "Spoken coach: too long at the door, early-arrival options, slow spots and closures ahead, break due, halfway and wrap-up. Weather at run start and when rain or heat changes, hydration reminders at doors, chilled/frozen heat warning. A switch for each kind of spoken line in Settings. Also includes DropRun's lines fitting between Maps' turn prompts."
   },
   "maps": [
     {
