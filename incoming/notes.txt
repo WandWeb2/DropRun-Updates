@@ -1,1 +1,0 @@
-Map key redrawn: colour swatches for store, stop, locked time, tight and late on their own backing, and the OpenStreetMap credit no longer overlaps it.

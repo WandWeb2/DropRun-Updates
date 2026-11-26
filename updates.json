@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 159,
-    "versionName": "2.0.57",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.57/DropRun-2.0.57.apk",
-    "sha256": "7d9c23f432ab03045d11216a1b878b1a473eecf48523fba3f4042dad3782d691",
-    "notes": "Navigation fix: Maps now gets either the exact spot you've saved from being there, or the complete address (only if the offline map has it). If it isn't found, DropRun says 'Address not found' instead of guessing. A lookup result in a different suburb is never used, and old remembered guesses are cleared once."
+    "versionCode": 160,
+    "versionName": "2.0.58",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.58/DropRun-2.0.58.apk",
+    "sha256": "4793edea155b3794fa83c532b9c03df47dc3d8834b883d8b137c48895a79f78a",
+    "notes": "Map key redrawn: colour swatches for store, stop, locked time, tight and late on their own backing, and the OpenStreetMap credit no longer overlaps it."
   },
   "maps": [
     {
