@@ -1,1 +1,0 @@
-DropRun's voice makes room for Maps: it finishes its heading line before Maps opens (length estimated from the words), waits for gaps in Maps' own prompts, and the arrival line waits for Maps' 'you have arrived'. Spoken location notes are shorter: known precise location, estimated location, address not found.
