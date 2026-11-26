@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 157,
-    "versionName": "2.0.55",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.55/DropRun-2.0.55.apk",
-    "sha256": "2f1ef12bf20dbffdb5eb234dd3aca27c3d3ac086605f3319d15f0ee28d22d230",
-    "notes": "Run report lists which drops arrived late and which left late. Far fewer notifications: the car notification only appears while Android Auto is connected, and heads-ups the voice already says are quiet and replace each other. DropRun now says out loud whether a location is remembered (you've delivered there), a new address that may be inaccurate, or only a suburb."
+    "versionCode": 159,
+    "versionName": "2.0.57",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.57/DropRun-2.0.57.apk",
+    "sha256": "7d9c23f432ab03045d11216a1b878b1a473eecf48523fba3f4042dad3782d691",
+    "notes": "Navigation fix: Maps now gets either the exact spot you've saved from being there, or the complete address (only if the offline map has it). If it isn't found, DropRun says 'Address not found' instead of guessing. A lookup result in a different suburb is never used, and old remembered guesses are cleared once."
   },
   "maps": [
     {
