@@ -1,0 +1,1 @@
+Navigation fix: Maps now gets either the exact spot you've saved from being there, or the complete address (only if the offline map has it). If it isn't found, DropRun says 'Address not found' instead of guessing. A lookup result in a different suburb is never used, and old remembered guesses are cleared once.
