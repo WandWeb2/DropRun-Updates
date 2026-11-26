@@ -1,1 +1,0 @@
-Run report lists which drops arrived late and which left late. Far fewer notifications: the car notification only appears while Android Auto is connected, and heads-ups the voice already says are quiet and replace each other. DropRun now says out loud whether a location is remembered (you've delivered there), a new address that may be inaccurate, or only a suburb.

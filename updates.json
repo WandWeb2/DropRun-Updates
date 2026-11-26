@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 155,
-    "versionName": "2.0.53",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.53/DropRun-2.0.53.apk",
-    "sha256": "66818df1748cbe18ce1a17b013d0b8e4ff902c8b2ee855c018e23f606a5d71cb",
-    "notes": "Shared run report redesigned: A4 page with the DropRun logo, headline numbers, plan vs actual and a tidier drop table. The footer no longer overlaps the last row."
+    "versionCode": 157,
+    "versionName": "2.0.55",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.55/DropRun-2.0.55.apk",
+    "sha256": "2f1ef12bf20dbffdb5eb234dd3aca27c3d3ac086605f3319d15f0ee28d22d230",
+    "notes": "Run report lists which drops arrived late and which left late. Far fewer notifications: the car notification only appears while Android Auto is connected, and heads-ups the voice already says are quiet and replace each other. DropRun now says out loud whether a location is remembered (you've delivered there), a new address that may be inaccurate, or only a suburb."
   },
   "maps": [
     {
