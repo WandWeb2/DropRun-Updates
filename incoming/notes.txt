@@ -1,0 +1,1 @@
+Route search screen: the map is at the top with the status, counter and DropRun vs sheet summary underneath. Once the route is found, Continue replaces Start run, so that step can't be skipped.
