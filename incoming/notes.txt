@@ -1,1 +1,0 @@
-Check screen shows the route search live on a map: grey legs being tried, blue best route so far, green when settled, with DropRun vs sheet-order km, driving time and finish above it. Heat reminder no longer depends on crate types. Includes the weather, hydration and spoken-line switches from 2.0.63.

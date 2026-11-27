@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 165,
-    "versionName": "2.0.63",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.63/DropRun-2.0.63.apk",
-    "sha256": "4c7619d013510066ef44de3c25e1e665ef1e81f9e4895e847b7fec7c30dbc194",
-    "notes": "Spoken coach: too long at the door, early-arrival options, slow spots and closures ahead, break due, halfway and wrap-up. Weather at run start and when rain or heat changes, hydration reminders at doors, chilled/frozen heat warning. A switch for each kind of spoken line in Settings. Also includes DropRun's lines fitting between Maps' turn prompts."
+    "versionCode": 167,
+    "versionName": "2.0.65",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.65/DropRun-2.0.65.apk",
+    "sha256": "3ce1776e8c8d7f0540217351cb78e59bb8e30fa87f6f4eb59c3fef15e4d871d4",
+    "notes": "Check screen shows the route search live on a map: grey legs being tried, blue best route so far, green when settled, with DropRun vs sheet-order km, driving time and finish above it. Heat reminder no longer depends on crate types. Includes the weather, hydration and spoken-line switches from 2.0.63."
   },
   "maps": [
     {
