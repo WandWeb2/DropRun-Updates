@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 171,
-    "versionName": "2.0.69",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.69/DropRun-2.0.69.apk",
-    "sha256": "6d60c00eb5646d58f20cde029e0ccb24bf152f18a8f4fe4c15d312ce63640345",
-    "notes": "Route search screen: the map is at the top with the status, counter and DropRun vs sheet summary underneath. Once the route is found, Continue replaces Start run, so that step can't be skipped."
+    "versionCode": 172,
+    "versionName": "2.0.70",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.70/DropRun-2.0.70.apk",
+    "sha256": "db321b97e516d5d6b123fe01c3144ab66662373536afda53c323466f635d4897",
+    "notes": "The route-found screen now says how DropRun's route compares with sheet order, with Use sheet order as the main button when it's simpler. Steadier layout and no scroll flicker during the route search."
   },
   "maps": [
     {
