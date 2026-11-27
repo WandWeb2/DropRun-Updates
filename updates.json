@@ -1,11 +1,11 @@
 {
   "format": 1,
   "app": {
-    "versionCode": 169,
-    "versionName": "2.0.67",
-    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.67/DropRun-2.0.67.apk",
-    "sha256": "3875872500aafff08762d1c58bb816ed5874ee370268b9cfcc3572fca54e5ee5",
-    "notes": "Route search map now builds the route stop by stop: grey roads weighed from the current point, the chosen leg locks in blue, then it moves on. Ends green and stays up until you press Continue. Tight deliveries show their ETA in amber."
+    "versionCode": 170,
+    "versionName": "2.0.68",
+    "url": "https://github.com/WandWeb2/DropRun-Updates/releases/download/app-2.0.68/DropRun-2.0.68.apk",
+    "sha256": "6d6cd28da531480bcc972a0fb311d3e6d15299f548de8106cedfb9d36f5a3955",
+    "notes": "Route search shows a live count of routes tested and flashes each improvement (dropped legs in red, new legs in blue, with what it gained)."
   },
   "maps": [
     {
