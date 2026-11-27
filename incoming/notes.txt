@@ -1,0 +1,1 @@
+Route search shows a live count of routes tested and flashes each improvement (dropped legs in red, new legs in blue, with what it gained).
